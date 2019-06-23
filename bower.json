@@ -1,0 +1,21 @@
+{
+  "name": "wiki2019",
+  "description": "igem wiki for uwaterloo",
+  "main": "index.js",
+  "authors": [
+    "iGEM UWaterloo"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
