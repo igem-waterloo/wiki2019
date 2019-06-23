@@ -1,0 +1,25 @@
+{
+  "name": "wiki2019",
+  "version": "1.0.0",
+  "description": "igem wiki for uwaterloo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igem-waterloo/wiki2019.git"
+  },
+  "author": "iGEM UWaterloo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igem-waterloo/wiki2019/issues"
+  },
+  "homepage": "https://github.com/igem-waterloo/wiki2019#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "globby": "^9.2.0",
+    "igemwiki-api": "^1.1.1",
+    "lodash": "^4.17.11"
+  }
+}
