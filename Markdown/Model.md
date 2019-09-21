@@ -9,11 +9,9 @@ In order to model this, we introduce a diffusion-reaction-advection model, which
 
 ## Introducing the Model
 
-As partial differential equation models are quite rare in the world iGEM, we will introduce this model from the ground up.
+As partial differential equation models are quite rare in the world iGEM, we will introduce this model from the ground up. The first component of the model is Fick's Law.
 
-The first component of the model is Fick's Law.
-
-$$ C = [Linuron] $$
+$$ C = [\textrm{Linuron}] $$
 
 $$ D = \textrm{diag}(D_x,D_y,D_z) $$
 
@@ -29,3 +27,11 @@ $$ \nabla \cdot (D\nabla C) - \vec{v}_e \cdot \nabla C = \frac{\partial C}{\part
 
 $$ \varrho \left( \frac{\partial v_e}{\partial t} - v_e \cdot \nabla v_e \right) = \nabla \cdot \sigma(v_e,p)+f $$
 $$ \nabla \cdot v_e = 0 $$
+
+## Numerical Methods
+
+In order to solve this model we first convert the system into variational form. The Navier-Stokes terms are given by a midpoint discretization method called Chorin's Method. 
+
+$$\int_\Omega \frac{\partial C}{\partial t} w d\tau = \int_\Omega \left[\nabla \cdot (D \nabla C)w - w v_e\cdot \nabla C - \frac{V_{max}C}{K_m-C}\right] d \tau =$$
+
+$$\int_\Omega \left[(-\nabla C)^T D^T \nabla w -wv_e\cdot \nabla C - \frac{V_{max}C}{K_m-C}\right] d \tau + \int_{\partial \Omega} w( \nabla C)\cdot d \vec{s}$$
