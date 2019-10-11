@@ -5,7 +5,7 @@ stylesheets:
 scripts:
     - ./assets/js/*.js
 pages:
-    - ./pages/*.html
-    - ./uwaterloo-index.html:INDEX
+    - ./*.html
+    - ./index.html:INDEX
 images:
     - ./images/*.{png,jpg}

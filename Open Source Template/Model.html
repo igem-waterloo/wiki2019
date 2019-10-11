@@ -92,11 +92,11 @@ mm(DCA,V_max_LibA,K_m_LibA), Ln → DCA # Linuron to DCA reaction through LibA, 
 rate_NAT1, DCA → DCAA # NAT1 reaction, irrelevant molecules are ignored see below
 end V_max_LibA K_m_LibA rate_NAT1</code></pre>
 						<p>The <b>mm(X,v,K)</b> function is DiffEqBiological's Hill function. The first argument encodes the substrate in question and V, K are the paramters for the Hill function. Although LibA also needs water, for the purpose of modelling, it is safe to ignore it because it is relatively infinite. With the model eventually shwon on the wiki, the water concentration will be shown and taken into account but it is not necessary at this stage (the qualitative and even maybe quantitative differences in the solutions for not including all of the reactatns and products are going to be minimal since not including them is essentially the same as asssuming that we will never have to worry about or measure their concentrations). The same goes for the NAT1. When we start considering varying enzyme concentrations due to the expression of the enxymes, this will come back to bite us but it is not a problem for now. The differential equations are:</p>
-						<p>$$ \frac{dLn}{dt} =  - \frac{V_{max_LibA} \cdot DCA}{K_{m_LibA} + DCA} \cdot Ln $$
-						$$ \frac{dDCA}{dt} = \frac{V_{max_LibA} \cdot DCA}{K_{m_LibA} + DCA} \cdot Ln - rate_{NAT1} \cdot DCA $$
+						<p>$$ \frac{dLn}{dt} =  - \frac{V_{max,LibA} \cdot DCA}{K_{m,LibA} + DCA} \cdot Ln $$
+						$$ \frac{dDCA}{dt} = \frac{V_{max,LibA} \cdot DCA}{K_{m,LibA} + DCA} \cdot Ln - rate_{NAT1} \cdot DCA $$
 						$$ \frac{dDCAA}{dt} = rate_{NAT1} \cdot DCA $$</p>
 						<p>A little less useful but I still think its cool that we can do this. It&#39;ll become important in other modelling. The following is the chemical reaction network.</p>
-						<p>$$ Ln \to  DCA \hspace{1em} \left[\frac{V_{max_LibA} \cdot DCA}{K_{m_LibA} + DCA}\right] $$
+						<p>$$ Ln \to  DCA \hspace{1em} \left[\frac{V_{max,LibA} \cdot DCA}{K_{m,LibA} + DCA}\right] $$
 						$$DCA \to  DCAA \hspace{1em} \left[[rate_{NAT1}]\right]$$</p>
 						<p>From above, we have these parameters.</p>
 <pre><code class="language-julia">V_max_LibA = 0.16;# nmol per min.

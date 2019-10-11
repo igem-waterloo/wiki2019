@@ -1,0 +1,11 @@
+templates:
+    - ./assets/templates/*.html
+stylesheets:
+    - ./assets/css/*.css
+scripts:
+    - ./assets/js/*.js
+pages:
+    - ./*.html
+    - ./Team-Waterloo.html:INDEX
+images:
+    - ./images/*.{png,jpg}
