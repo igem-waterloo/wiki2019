@@ -1,0 +1,11 @@
+templates:
+    - ./assets/templates/*.html
+stylesheets:
+    - ./assets/css/*.css
+scripts:
+    - ./assets/js/*.js
+pages:
+    - ./pages/*.html
+    - ./uwaterloo-index.html:INDEX
+images:
+    - ./images/*.{png,jpg}
