@@ -20,7 +20,12 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
-body {
+.centervideo { 
+  margin: 0 auto;
+  width: 1000px;
+}
+
+  body {
   background: #ffffff; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after {
     -moz-animation: none !important;

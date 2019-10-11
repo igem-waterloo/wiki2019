@@ -30,11 +30,8 @@
 					<li><a href="index.html">Home</a></li>
 					<li><a href="Description.html">Description</a></li>
 					<li><a href="Model.html">Model</a></li>
-					<li><a href="elements.html">Elements</a></li>
-					<li><a href="generic.html">Generic</a></li>
 				</ul>
 			</nav>
-
 
 		<!-- Heading -->
 			<div id="heading" >
@@ -49,7 +46,12 @@
 						<p>An important goal of our project is to determine whether, in the viscinity of a root nodule, the Linuron concentration is 
 						significant enough to damage the Rhizosphere and inhibit nodule growth as plants continue to develop. </p>
 						<p>In order to model this, we introduce a diffusion-reaction-advection model, which is a standard method in environmental engineering practices. As a consequence of this we are able to develop heuristics for whether Linuron and 3,4-DCA runoff is significant in addition to the original purpose of the model. The model is compared to a similar model by <em>Owsianiak et al</em> [1] for Linuron degradation in bioaugmentation beads. The paper by Owsianiak relied on the use of <em>Variovorax sp.</em> [4], which is one of the species responsible for our system - as such we credit many of our parameters to them.</p>
-						<p><strong>Insert Video</strong></p>
+						<div class="centervideo">
+							<video class="centervideo" width="1000" height="400" controls><source src="assets/fluid_mech.mp4"></video>
+						</div>
+						
+						
+						<hr>
 						<h2 id="introducing-the-model">Introducing the Model</h2>
 						<p>As partial differential equation models are quite rare in the world of iGEM, we will introduce this model from the ground up. The first component of the model is Fick&#39;s Law.</p>
 						<p>$$ C = [\textrm{Linuron}] $$</p>
