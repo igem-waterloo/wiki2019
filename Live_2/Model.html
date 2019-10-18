@@ -1,0 +1,152 @@
+<!--
+	Template Information:
+	Industrious by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>iGEM UWaterloo 2019 - Model</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="https://2019.igem.org/Template:Waterloo/uwaterloo-main-css?action=raw&amp;ctype=text/css"/>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a class="logo" href="https://2019.igem.org/Team:Waterloo">Math and Modeling</a>
+				<nav>
+					<a href="#menu">Menu</a>
+				</nav>
+			</header>
+
+		<!-- Nav -->
+		<nav id="menu">
+				<ul class="links">
+					<li><a href="https://2019.igem.org/Team:Waterloo">Home</a></li>
+					<li><a href="https://2019.igem.org/Team:Waterloo/Description">Description</a></li>
+					<li><a href="https://2019.igem.org/Team:Waterloo/Model">Model</a></li>
+				</ul>
+			</nav>
+
+		<!-- Heading -->
+			<div id="heading" >
+				<h1>Mathematics and Modeling</h1>
+			</div>
+
+		<!-- Main -->
+			<section id="main" class="wrapper">
+				<div class="inner">
+					<div class="content">
+						<h1 id="environmental-model">Environmental Model</h1>
+						<p>An important goal of our project is to determine whether the Linuron concentration in the vicinity of the root nodule is 
+						significant enough to damage the Rhizosphere and inhibit nodule growth as plants continue to develop. </p>
+						<p>In order to model this, we introduce a diffusion-reaction-advection model, which is standard in environmental engineering. A byproduct of this model is that we are able to develop heuristics for the magnitude of Linuron and 3,4-DCA runoff. The model is derived from a similar model by <em>Owsianiak et al</em> [1] for Linuron degradation in bioaugmentation beads. Since this paper also modelled <em>Variovorax sp.</em> [4], we were able to obtain many of our parameters from this work of Owsiniak et al.</p>
+						<div class="centervideo">
+							<video class="centervideo" width="1000" height="400" controls><source src="assets/fluid_mech.mp4"></video>
+						</div>
+						
+						
+						<hr>
+						<h2 id="introducing-the-model">Introducing the Model</h2>
+						<p> For completeness, we introduce this model from the ground up. First, we model diffusion through the soil with Fick&#39;s Laws of diffusion.</p>
+						<p>$$ C = [\textrm{Linuron}] $$</p>
+						<p>$$ D = \textrm{diag}(D_x,D_y,D_z) $$</p>
+						<p>$$ \nabla\cdot(D\nabla C) = \frac{\partial C}{\partial t} $$</p>
+						<p>The matrix D is called the diffusion matrix, which determines the speed of diffusion in different directions. Next, we add an advection term to model the transport of Linuron by water.</p>
+						<p>$$ \nabla \cdot (D\nabla C) - \vec{v}_e \cdot \nabla C = \frac{\partial C}{\partial t}$$</p>
+						<p>This advection term relies on the hydraulic head, which in our case is a measure of water pressure in the soil. However, water tends to flow around the root nodules, so Linuron transport is diffusion-dominated inside the nodule. Therefore we must use the Navier-Stokes equation in order to find the advection velocity. In order to model degradation, we couple this with our kinetic model to derive this coupled system of PDEs:</p>
+						<p>$$ \nabla \cdot (D\nabla C) - \vec{v}_e \cdot \nabla C = \frac{\partial C}{\partial t} + \chi_n \frac{V_{max}C}{K_m-C} $$</p>
+						<p>$$ \varrho \left( \frac{\partial v_e}{\partial t} - v_e \cdot \nabla v_e \right) = \nabla \cdot \sigma(v_e,p)+f $$
+						$$ \nabla \cdot v_e = 0 $$</p>
+						<h2 id="assumptions">Assumptions</h2>
+						<p>In the above model, we assumed an averaged rate of water intake - by necessity due to the complexity of the more realistic rain models. This assumption should produce a reasonable approximation since our timescale is on the order of weeks to months, whereas the rate of rainfall is on the order of days.</p>
+						<p>We also needed to verify that the rate of water transport into the nodule tissue is not limited by physiological factors such as membrane transport. In order to do this, we used the Octanol-Water partition coefficient in order to predict the rate of membrane transport using Overton&#39;s Rule [2]:</p>
+						<p>$$ P=\frac{K_{ow}D}{\ell} $$</p>
+						<p>By computing the rate of membrane transport, we concluded that the transport of Linuron into plant cells is not membrane-transport limited. In addition, we assume that the background degradation of Linuron by the same pathway is negligible compared to degradation by <em>Variovorax sp.</em> as found by Owsiniak et al..</p>
+						<h2 id="numerical-methods">Numerical Methods</h2>
+						<p>In order to solve this model we first convert the system into its variational form. The Navier-Stokes terms are solved by a midpoint discretization method called Chorin&#39;s Method, while the remainder is solved using the backwards Euler method. The following equations are obtained by integrating the above PDEs and applying integration by parts:</p>
+						<p>$$\int_\Omega \frac{\partial C}{\partial t} w d\tau = \int_\Omega \left[\nabla \cdot (D \nabla C)w - w v_e\cdot \nabla C - \frac{V_{max}C}{K_m-C}\right] d \tau =$$</p>
+						<p>$$\int_\Omega \left[(-\nabla C)^T D^T \nabla w -wv_e\cdot \nabla C - \frac{V_{max}C}{K_m-C}\right] d \tau + \int_{\partial \Omega} w( \nabla C)\cdot d \vec{s}$$</p>
+						<p>We now solve this system in Python using a library known as <em>FeNiCS</em> [3], which is an free, open-source library for solving PDEs with Finite Element Methods. Teams interested in using PDE solvers for their iGEM modelling should consider using FeNiCS as a great alternative to expensive proprietary software. Using <em>ParaView</em>, we export animations of our data from FeNiCS. We also used the Python library <em>meshio</em> to convert meshes generated by <em>Gmsh</em> into a format compatible with FeNiCS. As a note to future iGEM teams considering PDE transport models, your discretization must meet the Courant-Freidrichs-Lewy (CFL) condition in order to be stable.</p>
+						
+						
+						
+						<h1 id="liba-nat1-pathway">LibA-NAT1 Pathway</h1>
+            <p> We were initially considering three enzymes for Linuron degradation into
+                3,4-DCA: LibA, PuhA, PuhB, and 2 enzymes for 3,4-DCA degradation: NAT1, NAT2.
+                From preliminary kinetic models, we determined that the use of NAT2 would result in an accumulation of 3,4-DCA that would almost certainly be toxic, and that a PuhA-NAT1 system
+                would not degrade Linuron into 3,4-DCAA at a rate fast enough to mitigate the
+                toxicity of Linuron. The dynamics of the PuhB-NAT1 and LibA-NAT1 systems under fs
+                our preliminary models were identical, and the LibA-NAT1 system was chosen. LibA facilitates the degradation of Liunuron into 3,4-DCA through the following reaction:</p>
+						$$\text{H}_2\text{O} + \text{Linuron} \longrightarrow \text{N,O-dimethylhydroxylamine} + \text{CO}_2 + \text{3,4-dichloroaniline.}$$
+						It is known that purified LibA is a monomeric linuron hydrolase of ∼55 kDa with a K<sub>m</sub> and a V<sub>max</sub> for linuron of 5.8 μM and 0.16 nmol per minute for <it>Variovorax sp.</it> with an unknown enzyme concentration [4]. </p>
+						<p>The second step in the reaction involving NAT1 is characterized in Rodrigues-Lima [5]. The rate for 3,4-dichloroaniline degradation with NAT1 is determined to be 68 &plusmn 8 nmol. per min. per mg. of enzyme.</p>
+            <p>We assume that the LibA concentration and the NAT1 concentration are equal since they are placed under the same promoter in our system. This choice was done strictly due to time constraints, and our models did suggest that placing LibA and NAT1 under different promoters would result in a more effective system. In order to mitigate the inaccuracy of using just a K<sub>m</sub> valu without regard to the enzyme concentation, we decided to use the K<sub>cat</sub> from PuhB since its structure and function is very similar to NAT1.</p>
+						<h2 id="computations">Computations</h2>
+						<p>We use Julia and the DiffEqBiological.jl package in order to determine the dynamics of our reaction network. Under standard assumptions in biochemical modelling, we reduce our model to the following set of equations for our system with no influx of Linuron:</p>
+            $$\frac{d[\text{Linuron}]}{dt} = - \frac{V_\max^{\text{Lin}} \cdot [\text{Linuron}]}{K_m^{\text{Lin}} + [\text{Linuron}]} [\text{Linuron}],$$
+            $$\frac{d[\text{3,4-DCA}]}{dt} = - \frac{V_\max^{\text{DCA}} \cdot [\text{3,4-DCA}]}{K_m^{\text{DCA}} + [\text{3,4-DCA}]} [\text{3,4-DCA}] - k_{\text{DCA}}[\text{3,4-DCA}],$$
+            $$\frac{d[\text{DCAA}]}{dt} =  k_{\text{DCAA}}[\text{DCAA}],$$
+            <p> where DCAA is dichloroacetanilide, which is what NAT1 degrades 3,4-DCA into. In the case of with influx, the only difference is an influx term in the first equation. With a reasonable enzyme concentration of LibA and NAT1, as well as 600 nmol of Linuron, we see that
+						<p><img src="https://2019.igem.org/wiki/images/a/a1/T--Waterloo--no-influx.svg" alt="svg"></p>
+            <p> where $X$ is the Linuron concentration, $Y$ is the 3,4-DCA concentration, and $Z$ is the 3,4-DCAA concentration.
+            <p> Under a high influx of Linuron, we see that </p>
+						<p><img src="https://2019.igem.org/wiki/images/b/b5/T--Waterloo--influx.svg" alt="svg"></p>
+            which implies that LibA can mitigate the detrimental effects of high concentrations of Linuron in the soil, but there is a predicted very large accumulation of 3,4-DCA which is known to be detrimental to the cell. However, if we place LibA and NAT1 under different promoters, we see that the behaviour changes drastically if the NAT1 concentration is assumed to be 3 orders of magnitude higher than the concentration of LibA without influx:
+						<p><img src="https://2019.igem.org/wiki/images/e/e5/T--Waterloo--no-influx-optimal.svg" alt="svg"></p>
+            <p> and with influx: </p>
+						<p><img src="https://2019.igem.org/wiki/images/8/83/T--Waterloo--influx-optimal.svg" alt="svg"></p>
+						<h2 id="conclusions">Conclusions</h2>
+            <p> Under reasonable amounts of uncertainty in our model, the dynamics of our system were not drastically different. From our model, we determined that in order to engineer a system for the real world, we would need to place LibA and NAT1 under different promoters, ideally with NAT1 under a relatively strong promoter when compared to LibA. In addition, we can conclude that the LibA-NAT1 system could be engineered to degrade Linuron into 3,4-dichloroacetanilide under a wide range of thresholds for toxic concentrations of Linuron and 3,4-DCA. Under the above assumptions of our system, we have demonstrated that a LibA-NAT1 system can efficiently and effectively reduce Linuron concentration in the soil while preserving the rhizosphere.
+						<h3>References</h3>
+						<ul>
+						<li>[1] Owsianiak, M., Dechesne, A., Binning, P. J., Chambon, J. C., Sørensen, S. R., &amp; Smets, B. F. (2010). Evaluation of Bioaugmentation with Entrapped Degrading Cells as a Soil Remediation Technology. Environmental Science &amp; Technology, 44(19), 7622–7627. doi: 10.1021/es101160u</li>
+						<li>[2] Grime, J. M. A., Edwards, M. A., Rudd, N. C., &amp; Unwin, P. R. (2008). Quantitative visualization of passive transport across bilayer lipid membranes. Proceedings of the National Academy of Sciences, 105(38), 14277–14282. doi: 10.1073/pnas.0803720105</li>
+						<li>[3] Zakharov, P. E. (2018). The FEniCS project. Spark. doi: 10.1515/spark.18.13</li>
+						<li>[4] Bers, K., Leroy, B., Breugelmans, P., Albers, P., Lavigne, R., Sørensen, S. R., ... Springael, D. (2011). A Novel Hydrolase Identified by Genomic-Proteomic Analysis of Phenylurea Herbicide Mineralization by Variovorax sp. Strain SRS16. Applied and Environmental Microbiology, 77(24), 8754–8764. doi: 10.1128/aem.06162-11</li>
+						<li>[5] Rodrigues-Lima, Fernando & Dairou, Julien & Diaz, Clara & Rubio, Maria & Sim, Edith & Spaink, Herman & Dupret, Jean-Marie. (2006). Cloning, functional expression and characterization of Mesorhizobium loti arylamine N-acetyltransferases: Rhizobial symbiosis supplies leguminous plants with the xenobiotic N-acetylation pathway. Molecular microbiology. 60. 505-12. 10.1111/j.1365-2958.2006.05114.x. </li>
+						</ul>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<div class="inner">
+				<div class="content">
+					<section>
+						<h3>Accumsan montes viverra</h3>
+						<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing sed feugiat eu faucibus. Integer ac sed amet praesent. Nunc lacinia ante nunc ac gravida.</p>
+					</section>
+					<section>
+						<h4>Sem turpis amet semper</h4>
+						<ul class="alt">
+							<li><a href="#">Dolor pulvinar sed etiam.</a></li>
+							<li><a href="#">Etiam vel lorem sed amet.</a></li>
+							<li><a href="#">Felis enim feugiat viverra.</a></li>
+							<li><a href="#">Dolor pulvinar magna etiam.</a></li>
+						</ul>
+					</section>
+					<section>
+						<h4>Social Media</h4>
+						<ul class="plain">
+							<li><a href="https://twitter.com/waterloo_igem"><i class="icon fa-twitter">&nbsp;</i>Twitter</a></li>
+							<li><a href="https://www.facebook.com/WaterlooiGEM/"><i class="icon fa-facebook">&nbsp;</i>Facebook</a></li>
+							<li><a href="https://www.instagram.com/waterloo.igem"><i class="icon fa-instagram">&nbsp;</i>Instagram</a></li>
+							<li><a href="https://github.com/igem-waterloo/uwaterloo-igem-2019"><i class="icon fa-github">&nbsp;</i>Github</a></li>
+						</ul>
+					</section>
+				</div>
+			</div>
+		</footer>
+
+		<!-- Scripts -->
+			<script type="text/javascript" src="https://2019.igem.org/wiki/index.php?title=Template:Waterloo/JS&action=raw&ctype=text/javascript"></script>
+			<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+			<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+	</body>
+</html>
