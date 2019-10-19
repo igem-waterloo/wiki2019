@@ -62,7 +62,9 @@ The second approach would be to use end-point MICs, minimal inhibitory concentra
 Microbial degradation is an important mechanism in the dissipation of linuron and other phenylurea herbicides in the environment.  Therefore the ideal goal would be to achieve full mineralization of the linuron as a substrate.  With this in mind, linuron could be used as a substrate to sustain the growth of the bacteria (bacteria would grow on agar plates containing just linuron).  This has been observed inVariovorax sp. Strain SRS16, which is able to fully mineralize linuron, and some genes involved in this metabolic pathway have already been identified (Bers et al., 2011).  The mineralization is conducted through a pathway initiated by the hydrolysis of linuron to 3,4-DCA, by libA,  which is then converted to Krebs cycle intermediates (Bers et al., 2011).
 
 The entire pathway is shown below:
+
 ![Full Mineralization Pathway](https://2019.igem.org/wiki/images/2/2d/T--Waterloo--fulldegradationpathway.png)
+
 (Image sourced from Bers et al., 2011)
 
 However, the dcaQTA1A2BR and ccdRCFDE gene clusters ORF’s only been identified by their possible products and enzymatic function bioinformatically (Bers et al., 2011).  Additionally, it is indicated that the dcaQTA1A2BR gene cluster is located within a transposon-like structure (Bers et al., 2011).  Therefore, due to the complexity and time associated with identifying the necessary ORF’s in house and working with a transposon-containing gene cluster, this pathway was not chosen (Bers et al., 2011).  If further publications, show additional information on these gene clusters, this pathway could become an ideal solution later on as it leads to full mineralization.
