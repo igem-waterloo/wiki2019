@@ -6,6 +6,10 @@ Once they selected their project, we also helped give them some advice on how to
 
 ![cuigem call](https://2019.igem.org/wiki/images/6/6f/T--Waterloo--CU_Collab.png)
 
+#### UofCalgary iGEM:
+
+University of Calgary's iGEM team reached out to us for collaborating on a project to visualize iGEM team metadata. Specifically, the aim of the project was to map collaborations between iGEM teams and topics they worked on. Calgary worked on scraping the iGEM wikis using BeautifulSoup in Python, which we built off for our interactive visualization at [INSERT LINK].
+
 #### UAlberta iGEM:
 
 Near the beginning of the year, we were approached by the UAlberta iGEM team who were looking to do some more in-depth mathematical modelling.  They were wondering how best to answer some of their questions about their Beetector system with modelling such as: how many bees would they have to assay in the hive to give reliable results?  How could they ensure that the signal would be visible?  To help get them started and give some tips and tricks on how to effectively use modelling in iGEM projects, we met up online to share resources, have rudimentary workshops on modelling basics, and answer questions.  This helped them complete and get started on their modeling.  As well as, it allowed them to start exploring this aspect of iGEM projects without having members with previous experience with mathematical modelling.
@@ -20,7 +24,7 @@ We first met Newcastle iGEM at the 2018 Jamboree and were very interested in the
 
 In the following months, we arranged several video calls between our two teams. We continued to discuss experimental aspects of the Waterloo project, especially the use of minimum inhibitory concentration (MIC) assays to determine the toxin tolerance of engineered and non-engineered strains. Newcastle performed similar experiments in both 2018 and 2019 and provided helpful literature references and practical advice for this work.
 
-Once Newcastle had chosen their 2019 project, we assisted with aspects of their mathematical model, which sought to describe a CRIPSR SHERLOCk system. We provided relevant resources regarding enzyme kinetics and differential equation modelling and discussed possible limitations of the model.
+Once Newcastle had chosen their 2019 project, we assisted with aspects of their mathematical model, which sought to describe a CRIPSR SHERLOCk system. We provided relevant resources regarding enzyme kinetics and differential equation modelling and discussed possible limitations of the model. 
 
 (Pictured: Dr Thomas Howard, Dr Jon Marles-Wright, Connor, Dylan)
 ![NC Picture 1](https://2019.igem.org/wiki/images/8/88/T--Waterloo--NCL1.jpg)
