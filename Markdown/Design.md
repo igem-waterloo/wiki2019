@@ -168,6 +168,8 @@ Health Canada. (2012). Proposed Re-evaluation Decision PRVD2012-02, Linuron - Ca
 
 Heisler, J., Glibert, P. M., Burkholder, J. M., Anderson, D. M., Cochlan, W., Dennison, W. C., … Suddleson, M. (2008). Eutrophication and harmful algal blooms: A scientific consensus. Harmful Algae, 8(1), 3–13. https://doi.org/10.1016/j.hal.2008.08.006 
 
+Kim, Y.-M., Park, K., Kim, W., Shin, J., Kim, J., Park, H., & Rhee, I. (2007). Cloning and Characterization of a Catechol-Degrading Gene Cluster from 3,4-dichloroaniline Degrading Bacterium Pseudomonas sp. KB35B. Journal of Agricultural and Food Chemistry, 55, 4722–4727.
+
 Ledermann, R., Bartsch, I., Remus-Emsermann, M. N., Vorholt, J. A., & Fischer, H.-M. (2015). Stable Fluorescent and Enzymatic Tagging ofBradyrhizobium diazoefficiensto Analyze Host-Plant Infection and Colonization. Molecular Plant-Microbe Interactions, 28(9), 959–967. https://doi.org/10.1094/MPMI-03-15-0054-TA
 
 Ontario Ministry of Agriculture, Food, and Rural Affairs (OMAFRA). (2018, February 8). Soybean Production in Ontario. Retrieved October 19, 2019, from http://www.omafra.gov.on.ca/english/crops/field/soybeans.html
