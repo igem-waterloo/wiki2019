@@ -6,6 +6,10 @@ Once they selected their project, we also helped give them some advice on how to
 
 ![cuigem call](https://2019.igem.org/wiki/images/6/6f/T--Waterloo--CU_Collab.png)
 
+#### UofCalgary iGEM:
+
+University of Calgary's iGEM team reached out to us for collaborating on a project to visualize iGEM team metadata. Specifically, the aim of the project was to map collaborations between iGEM teams and topics they worked on. Calgary worked on scraping the iGEM wikis using BeautifulSoup in Python, which we built off for our interactive visualization at [INSERT LINK].
+
 #### UAlberta iGEM:
 
 Near the beginning of the year, we were approached by the UAlberta iGEM team who were looking to do some more in-depth mathematical modelling.  They were wondering how best to answer some of their questions about their Beetector system with modelling such as: how many bees would they have to assay in the hive to give reliable results?  How could they ensure that the signal would be visible?  To help get them started and give some tips and tricks on how to effectively use modelling in iGEM projects, we met up online to share resources, have rudimentary workshops on modelling basics, and answer questions.  This helped them complete and get started on their modeling.  As well as, it allowed them to start exploring this aspect of iGEM projects without having members with previous experience with mathematical modelling.
