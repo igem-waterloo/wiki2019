@@ -7,8 +7,8 @@
 
 
 # Experimental Design and Consultation
-Along with the guidance provided by the Waterloo iGEM advisors, faculty and graduate students of the university were consulted, and aided in the development of our design. Thanks go out to Scott Liddycoat, who is a departmental technician in the faculty of science, and who helped us optimize the growing conditions of the soybeans. As well, to the departmental technician Cheryl Soullière who provided a protocol for facilitating nodulation in soybean plants, as conducted for the university labs. T
-  Graduate student Adrian Van Dyke was of immeasurable help in guiding our team throughout the conjugation protocol, culturing rhizobia, and providing weekly aid and insight. 
+Along with the guidance provided by the Waterloo iGEM advisors, faculty and graduate students of the university were consulted, and aided in the development of our design. Thanks go out to Scott Liddycoat, who is a departmental technician in the faculty of science, and who helped us optimize the growing conditions of the soybeans. As well, to the departmental technician Cheryl Soullière who provided a protocol for facilitating nodulation in soybean plants, as conducted for the university labs. 
+  Graduate student of Dr. Trevor Charles, Adrian Van Dyke, was of immeasurable help in guiding our team throughout the conjugation protocol, culturing rhizobia, and providing weekly aid and insight. 
    ...Joyn, barney, George. 
    
 # Hardware Support 
