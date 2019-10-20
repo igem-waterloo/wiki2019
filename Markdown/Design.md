@@ -73,6 +73,17 @@ However, the dcaQTA1A2BR and ccdRCFDE gene clusters ORF’s only been identified
 
 If this pathway were to be used, an experimental method to determine the success of this strategy would be to grow *Bradyrhizobium diazoefficiens* on agar containing linuron as the sole carbon source (Bers et al., 2011). Growth would indicate that the bacteria is successfully metabolizing linuron into Kreb’s cycle intermediates used for energy production.
 
+
+#### Alternative pathway: The Nah Pathway
+
+A second alternative pathway described by Kim et al. in 2015 was identified as the nahHIJKLMNO pathway.  The genes in this pathway were all originally identified in Pseudomonas sp. KB35B.  And the reading frame for each gene was well characterized.  However, the first step in this pathway from 3,4-DCA to Catechol is catalyzed through unknown enzymatic means.  Overall, this pathway was not chosen due to the major gap between 3,4-DCA and cathecol (we could not find any other characterized enzymes in the literature that catalyze similar reactions), and its higher level of complexity compared to using just two genes as described previously.
+
+The pathway is shown below:
+
+![Nah pathway](https://2019.igem.org/wiki/images/e/ed/T--Waterloo--NahPathway.png)
+
+(Image sourced from Kim et al., 2015)
+
 # Experimental Design
 
 As mentioned throughout the description of the pathways, there are a few ways in which we envision testing our engineered system.  These approaches include assaying the minimal inhibitory concentration (MIC) of the engineered root nodules in the presence of herbicide, assaying nodulation volume of individually inoculated plants, and competitive nodulation assays.
@@ -157,6 +168,8 @@ Grandcoin, A.; Piel, S.; Baurès, E. (2017). AminoMethylPhosphonic acid (AMPA) i
 Health Canada. (2012). Proposed Re-evaluation Decision PRVD2012-02, Linuron - Canada.ca. Retrieved October 19, 2019, from https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2012/linuron.html 
 
 Heisler, J., Glibert, P. M., Burkholder, J. M., Anderson, D. M., Cochlan, W., Dennison, W. C., … Suddleson, M. (2008). Eutrophication and harmful algal blooms: A scientific consensus. Harmful Algae, 8(1), 3–13. https://doi.org/10.1016/j.hal.2008.08.006 
+
+Kim, Y.-M., Park, K., Kim, W., Shin, J., Kim, J., Park, H., & Rhee, I. (2007). Cloning and Characterization of a Catechol-Degrading Gene Cluster from 3,4-dichloroaniline Degrading Bacterium Pseudomonas sp. KB35B. Journal of Agricultural and Food Chemistry, 55, 4722–4727.
 
 Ledermann, R., Bartsch, I., Remus-Emsermann, M. N., Vorholt, J. A., & Fischer, H.-M. (2015). Stable Fluorescent and Enzymatic Tagging ofBradyrhizobium diazoefficiensto Analyze Host-Plant Infection and Colonization. Molecular Plant-Microbe Interactions, 28(9), 959–967. https://doi.org/10.1094/MPMI-03-15-0054-TA
 
