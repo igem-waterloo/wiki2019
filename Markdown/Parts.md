@@ -12,7 +12,7 @@ This year, our team worked on a biobrick for each medal requirement. Below are l
   <th>Medal criterion</th>
 </tr>
 <tr>
-  <td>[BBa_K2137001](http://parts.igem.org/Part:BBa_K2137001)</td>
+  <td> <a href="http://parts.igem.org/Part:BBa_K2137001"> BBa_K2137001 </a> </td>
   <td>Measurement</td>
   <td>CUP1-GFP Transcriptional Fusion</td>
   <td>Patrick Diep</td>
@@ -20,7 +20,9 @@ This year, our team worked on a biobrick for each medal requirement. Below are l
   <td>Bronze #5 (Note: this part was not made this year. We added new characterization data to this part this year.)</td>
 </tr>
 <tr>
-  <td>[BBa_K2995000](http://parts.igem.org/Part:BBa_K2995000)</td>
+  <td>
+    <a href="http://parts.igem.org/Part:BBa_K2995000"> BBa_K2995000 </a> 
+   </td>
   <td>Regulatory</td>
   <td>Paph promoter</td>
   <td>Clara Fikry</td>
@@ -28,7 +30,8 @@ This year, our team worked on a biobrick for each medal requirement. Below are l
   <td>Silver #1</td>
 </tr>
 <tr>
-  <td>[BBa_K2995002](http://parts.igem.org/Part:BBa_K2995002) </td>
+  <td>
+    <a href="http://parts.igem.org/Part:BBa_K2995002"> BBa_K2995002 </a> </td>
   <td>DNA</td>
   <td>CcaS/R inducible MetE cassette</td>
   <td>Clara Fikry</td>
