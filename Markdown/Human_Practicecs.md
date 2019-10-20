@@ -30,7 +30,7 @@ Linuron has a Cancer Classification of Group C - Possible Human Carcinogen.<sup>
 
 In addition, human lymphocytes exposed in vitro to 1 ug/ml of linuron causes little chromosome damage.<sup>1</sup> However, a mixture of 0.5 ug/ml linuron and 0.0005 ug/ml atrazine (another type of herbicide), showed more significant chromosomal damage.<sup>1</sup>
 
-***
+___
 
 ### 3,4-DCA Dichloroaniline (3,4-DCA)
 
@@ -53,7 +53,7 @@ Exposure likely occurs via inhalation, ingestion (via drinking water) or dermal 
 
 Human cancer risk was not reported, and the compound was not classified by IARC, although this may be due to its limited use.<sup>5</sup> Other health effects include severe acute dermal and oral toxicity effects and serious eye damage in animals and humans (in larger concentrations).<sup>5</sup> Animal studies found that high exposure can cause abnormal liver or kidney function and reduces the oxygen carrying capacity of the blood with LD50 dermal contact ranging from 300-800 mg/kg.<sup>5</sup> The compound is very toxic to aquatic life with lasting effects.<sup>5</sup> 
 
-***
+___
 
 ## Propanil (proxy evalutaon for Acetyl-3,4-DCA)
 
