@@ -24,7 +24,7 @@ We first met Newcastle iGEM at the 2018 Jamboree and were very interested in the
 
 In the following months, we arranged several video calls between our two teams. We continued to discuss experimental aspects of the Waterloo project, especially the use of minimum inhibitory concentration (MIC) assays to determine the toxin tolerance of engineered and non-engineered strains. Newcastle performed similar experiments in both 2018 and 2019 and provided helpful literature references and practical advice for this work.
 
-Once Newcastle had chosen their 2019 project, we assisted with aspects of their mathematical model, which sought to describe a CRIPSR SHERLOCk system. We provided relevant resources regarding enzyme kinetics and differential equation modelling and discussed possible limitations of the model.
+Once Newcastle had chosen their 2019 project, we assisted with aspects of their mathematical model, which sought to describe a CRIPSR SHERLOCk system. We provided relevant resources regarding enzyme kinetics and differential equation modelling and discussed possible limitations of the model. 
 
 (Pictured: Dr Thomas Howard, Dr Jon Marles-Wright, Connor, Dylan)
 ![NC Picture 1](https://2019.igem.org/wiki/images/8/88/T--Waterloo--NCL1.jpg)
