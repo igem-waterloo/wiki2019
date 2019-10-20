@@ -1,4 +1,6 @@
-# Selecting a pesticide:
+# Designing an herbicide-tolerant rhizobium 
+
+## Herbicide selection:
 
 Various pesticides have been shown to inhibit nitrogenase activity in soil bacteria (both symbiotic and free-living) (Fox et al., 2007).  This then limits the availability of usable nitrogen for plants which requires farmers to supplement their crops with nitrogen fertilizers (Fox et al., 2007).  However, nitrogen fertilizers cause nutrient pollution and contaminate water-ways leading to algal blooms and ecological damage (Heisler et al., 2008).
 
@@ -9,20 +11,20 @@ Thus, a target pesticide for this project would be able to be degraded or biotra
 Linuron was identified as an herbicide that fits all three criteria since literature has identified some genes and metabolic pathways involved in the degradation or transformation of linuron (xenobiotic phenylurea pesticide).  These genes are further described below in ‘choosing the genes’.  It is also an herbicide used in Canada of particular interest as its use is currently in the process of being re-evaluated by Health Canada (Health Canada, 2012). It is used to control broadleaf and grassy weeds prior to planting and is used as a staple ingredient in many herbicide applications for Canadian growers (Health Canada, 2012).  Lastly, linuron in North America is used for the treatment of tubers and legumes including soybean plants which are capable of forming root nodules with various rhizobia species (Health Canada, 2012).
 
 
-# Selecting a plant:
+## Plant selection:
 
 As above, for increased root nodule formation and symbiotic nitrogen fixation in the presence of linuron, the plant chosen must also satisfy certain criteria. These included being used in Canada/Southern Ontario, being a crop onto which linuron is applied, and also being capable of forming root nodules with rhizobia. The soybean plant was chosen as it satisfies these criteria by (1) comprising 2 million acres of crop land in Ontario, (2) being a known crop to which linuron is applied to as a pre-emergence herbicide, and (3) being able to form root nodules with certain species of rhizobia such as Rhizhobia fredii, Bradyrhizobium Diazoefficiens, and Bradyrhizobium elkanii (OMAFRA, 2018 and Farm Journal AgPro, 2014). 
 
 Furthermore, although soybean is not quite a model organism, it is well-studied due to its agricultural importance (Pitzschke, 2013). It also germinates, grows, and shows evidence of root nodulation relatively quickly compared to other crops to which linuron is applied (Pitzschke, 2013).  Thus, by using soybeans as a plant symbiont for rhizobia, nodulation in the presence of pesticide could be directly assayed through nodule counts.
 
 
-# Selecting a rhizobium:
+## Rhizobium selection:
 
 Once soybean was selected as the target plant, the choice of bacteria was limited to three rhizobia species, Rhizhobia fredii, Bradyrhizobium diazoefficiens, and Bradyrhizobium elkanii (Farm Journal AgPro, 2014).  From these three, Bradyrhizobium diazoefficiens USDA110 was selected in part because it is also well-studied (with literature including that done under the species’ former name Bradyrhizobium japonicum). It is also used in commercial rhizobia inoculants for soils designed to improve the nitrogen fixation yield of soybean crops (Prevost & Bromfield, 2003). Despite its slow growth (several days are required to get visible growth), Bradyrhizobium diazoefficiens USDA110 was chosen for this project due to its prevalent use as an inoculant in Ontarian soils (Prevost & Bromfield, 2003).
 
-# Designing the DNA:
+## DNA design:
 
-### Choosing a vector:
+### Vector selection:
 For assembly of the system to be used in both E. coli for construction and Bradyrhizobium Diazoefficiens the plasmid pRJPaph was used. Different versions of this plasmid encode a variety of fluorescence or enzymatic reporters (Ledermann et al., 2015). We chose to use the pRJPaph-mCHERRY and pRJPaph-GFP fluorescent reporter versions of the plasmid for our project as we could easily measure fluoresence with our lab equipment. We decided to use the GFP plasmid for further cloning (to insert degradation genes) to create the engineered strains. mCherry will act as an empty vector control in our later experiments. 
 
 These plasmids were designed for stable integration into the B. diazoefficiens genome (Ledermann et al., 2015). We could edit them/ do our construction in E. coli and then conjugate them into B. diazoefficiens. The plasmids integrate into the B. diazoefficiens genome, downstream of the of the scoI gene, without affecting the bacteria's ability to form root nodules (Ledermann et al., 2015).   
@@ -37,7 +39,7 @@ The aim of the project was to confer an increased tolerance, if not a resistance
 
 The advantages and disadvantages brought on by all found pathways and degradation-related genes were taken into consideration when deciding upon the final pathway for this project.  Below is a description of the chosen pathway, as well as those considered during our design process.
 
-##### Chosen Pathway; nat1 and libA
+##### Chosen Pathway: nat1 and libA
 
 ![Chosen Pathway](https://2019.igem.org/wiki/images/8/80/T--Waterloo--Chosenpathway_linurondegradation.png)
 
@@ -57,7 +59,7 @@ For this, soybean plants grown in facilities at the University of Waterloo by th
 
 The second approach would be to use end-point MICs, minimal inhibitory concentrations, to determine changes in tolerance between the engineered rhizobia and unengineered wild-type. This would not reflect their survival in soil environments, but would give an indication to the comparative effect of the herbicide on the two bacteria. If it is detected that the MICs increased for the engineered strain, it would indicate that the genes provided confer an increased tolerance to the herbicide or its tested derivatives.  
 
-##### Full Mineralization:
+##### Alternative pathway: full Mineralization
 
 Microbial degradation is an important mechanism in the dissipation of linuron and other phenylurea herbicides in the environment.  Therefore the ideal goal would be to achieve full mineralization of the linuron as a substrate.  With this in mind, linuron could be used as a substrate to sustain the growth of the bacteria (bacteria would grow on agar plates containing just linuron).  This has been observed in Variovorax sp. Strain SRS16, which is able to fully mineralize linuron, and some genes involved in this metabolic pathway have already been identified (Bers et al., 2011). The mineralization is conducted through a pathway initiated by the hydrolysis of linuron to 3,4-DCA, by libA,  which is then converted to Krebs cycle intermediates (Bers et al., 2011).
 
@@ -71,6 +73,14 @@ However, the dcaQTA1A2BR and ccdRCFDE gene clusters ORF’s only been identified
 
 If this pathway were to be used, an experimental method to determine the success of this strategy would be to grow Bradyrhizobium diazoefficiens on agar containing linuron as the sole carbon source (Bers et al., 2011). Growth would indicate that the bacteria is successfully metabolizing linuron into Kreb’s cycle intermediates used for energy production.
 
+## Additional herbicide: 
+While the literature indicated that the transformation of linuron and 3,4-dichloroaniline into 3,4-dichloroacetanilide should reduce the toxicity of the bacteria’s environment, there were still many unknowns at this stage of the project design such as the relative kinetics of these two enzymatic transformations and whether the partial degradation of linuron would be sufficient. As such, we wanted to design another herbicide tolerance system using a more well-studied herbicide. 
+
+We found that the commonly-used glyphosate herbicide also inhibited nitrogen fixation in root nodules (Zablotowicz & Reddy, 2004). We also found a relatively simple pathway for the degradation of glyphosate to metabolic intermediates by C-P lyase and sarcosine oxidase (Grandcoin et al., 2017). However, we decided to engineer glyphosate tolerance via a different mechanism. 
+
+Glyphosate is typically utilized with “Round-Up Ready” plants by Monsanto which have been genetically engineered to be resistant to the pesticide. This was accomplished by replacing the wild type copy of the enzyme inhibited by glyphosate, 5-enolpyruvylshikimate-3-phosphate (EPSP) synthase, with a copy of the gene found in agrobacterium sp. strain CP4, which demonstrates low levels of inhibition. When this glyphosate-resistant gene is engineered into soybeans, the shikimate pathway, which is required for the production of aromatic amino acids, is no longer inhibited and the plant is able to survive (Funke et al., 2006). We envisioned that by integrating this CP4 EPSP synthase gene from the original Monsanto patent (which we codon optimized for B. diazoefficiens) into the genome of our rhizobia, we could introduce glyphosate tolerance, in the same way it is done for plants. We chose to pursue this project alongside our linuron project in hopes of demonstrating that rhizobia could be made tolerant to different herbicides by a variety of ways and that mechanisms to accomplish this could be tailored to each herbicide.
+
+
 # Citations:
 
 Bers, K., Leroy, B., Breugelmans, P., Albers, P., Lavigne, R., Sørensen, S. R., … Springael, D. (2011). A Novel Hydrolase Identified by Genomic-Proteomic Analysis of Phenylurea Herbicide Mineralization by Variovorax sp. Strain SRS16. Applied and Environmental Microbiology, 77(24), 8754–8764. https://doi.org/10.1128/AEM.06162-11
@@ -80,6 +90,10 @@ Dupret, J.-M., Dairou, J., Busi, F., Silar, P., Martins, M., Mougin, C., … Coc
 Farm Journal AgPro. (2014, January 10). Attention Required! | Cloudflare. Retrieved October 19, 2019, from https://www.agprofessional.com/article/soybeans-and-rhizobia-mutually-beneficial-relationship
 
 Fox, J. E., Gulledge, J., Engelhaupt, E., Burow, M. E., & McLachlan, J. A. (2007). Pesticides reduce symbiotic efficiency of nitrogen-fixing rhizobia and host plants. Proceedings of the National Academy of Sciences, 104(24), 10282–10287. https://doi.org/10.1073/pnas.0611710104 
+
+Funke, T.; Han, H. Healy-Fried, M. L.; Fischer, M.; Schönbrunn, E. (2006). Molecular basis for the herbicide resistance of Roundup Ready crops. PNAS, 103(35), 13010-13015.
+
+Grandcoin, A.; Piel, S.; Baurès, E. (2017). AminoMethylPhosphonic acid (AMPA) in natural waters: Its sources, behavior and environmental fate. Water Research, 117, 187-197.
 
 Health Canada. (2012). Proposed Re-evaluation Decision PRVD2012-02, Linuron - Canada.ca. Retrieved October 19, 2019, from https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2012/linuron.html 
 
@@ -95,3 +109,5 @@ Prévost and E. S P. Bromfield, D. (2003). Diversity of symbiotic rhizobia resid
 
 Rodrigues-Lima, F., Dairou, J., Diaz, C. L., Rubio, M. C., Sim, E., Spaink, H. P., & Dupret, J.-M. (2006). Cloning, functional expression and characterization of Mesorhizobium loti arylamine N-acetyltransferases: rhizobial symbiosis supplies leguminous plants with the xenobiotic N-acetylation pathway. Molecular Microbiology, 60(2), 505–512. https://doi.org/10.1111/j.1365-2958.2006.05114.x 
 Stoker, T. E., & Kavlock, R. J. (2010). Pesticides as Endocrine-Disrupting Chemicals. Hayes’ Handbook of Pesticide Toxicology, 551–569. https://doi.org/10.1016/B978-0-12-374367-1.00018-5
+
+Zablotowicz, R. M. & Reddy, K. N. (2004). Impact of glyphosate on the Bradyrhizobium japonicum symbiosis with glyphosate-resistant transgenic soybean: a minireview. J. Environ Qual., 33(3), 825-831.
