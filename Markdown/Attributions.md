@@ -16,4 +16,6 @@ Along with the guidance provided by the Waterloo iGEM advisors, faculty and grad
 Large thanks go towards the Dr. Josh Neufeld and the Neufeld lab, that allowed our team access to their plate reader, *INSERT MODEL*, Dr. Brain Ingalls for allowing use of the flow-cytometer, and Dr. Trevor Charles for the platereader *INSERT MODEL*. 
 
 *I saw Dylan used something in E7 - does that need to be noted?* 
-
+# Wiki and Logo Development
+# Administrative Help
+# Sponsors
