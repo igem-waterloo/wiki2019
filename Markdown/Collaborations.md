@@ -35,3 +35,22 @@ Dylan met with UBC iGEM members Tylo, Samuel, and Emilia in August during a visi
 (Pictured: Tylo, Dylan, Samuel, Emilia)
 
 ![UBC Picture](https://2019.igem.org/wiki/images/8/8d/T--Waterloo--UBCCollabs.jpeg)
+
+
+#### University of Calgary iGEM
+
+This year, we collaborated with University of Calgary’s iGEM team in order to visualize collaborations between iGEM teams globally in addition to showing which topics teams choose to work on.
+
+The process followed was:
+* Scrape all team wikis to extract text (parsing team wiki links from https://igem.org/Team_Wikis?year=2016) using the Beautiful Soup Python library
+  * Crawling was limited to the team’s domain to prevent crawling external websites
+* Tokenize text and identify nouns, using the Natural Language Toolkit (NLTK) library in Python
+  * Use fuzzy string matching (computing the Levenshtein distance between two strings to allow for slight variations/typos) for:
+  * Identify biological terms that appear most frequently on each team’s wiki (a list of biological terms was curated beforehand)
+* On the “Collaborations” pages of wikis, any team names were identified and tracked as collaborations for that specific team
+* The geographical location of teams was obtained by extracting the geojson file from the Google Maps document posted in http://2016.igem.org/Community. These addresses were then fed into a Google geocoder API using GeoPy, in order to obtain the exact latitude and longitude of each team.
+* The data obtained was displayed using the Dash library in Python, powered by Plotly for a visualization of the teams on a world map
+
+In this visualization, one may hover over each team’s marker to see the team name in addition to any keywords that appeared frequently on the team’s wiki.
+
+
