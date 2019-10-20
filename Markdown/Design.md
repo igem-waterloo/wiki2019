@@ -39,7 +39,7 @@ The aim of the project was to confer an increased tolerance, if not a resistance
 
 The advantages and disadvantages brought on by all found pathways and degradation-related genes were taken into consideration when deciding upon the final pathway for this project.  Below is a description of the chosen pathway, as well as those considered during our design process.
 
-##### Chosen Pathway: nat1 and libA
+#### Chosen Pathway: nat1 and libA
 
 ![Chosen Pathway](https://2019.igem.org/wiki/images/8/80/T--Waterloo--Chosenpathway_linurondegradation.png)
 
@@ -59,7 +59,7 @@ For this, soybean plants grown in facilities at the University of Waterloo by th
 
 The second approach would be to use end-point MICs, minimal inhibitory concentrations, to determine changes in tolerance between the engineered rhizobia and unengineered wild-type. This would not reflect their survival in soil environments, but would give an indication to the comparative effect of the herbicide on the two bacteria. If it is detected that the MICs increased for the engineered strain, it would indicate that the genes provided confer an increased tolerance to the herbicide or its tested derivatives.  
 
-##### Alternative pathway: full Mineralization
+#### Alternative pathway: full Mineralization
 
 Microbial degradation is an important mechanism in the dissipation of linuron and other phenylurea herbicides in the environment.  Therefore the ideal goal would be to achieve full mineralization of the linuron as a substrate.  With this in mind, linuron could be used as a substrate to sustain the growth of the bacteria (bacteria would grow on agar plates containing just linuron).  This has been observed in Variovorax sp. Strain SRS16, which is able to fully mineralize linuron, and some genes involved in this metabolic pathway have already been identified (Bers et al., 2011). The mineralization is conducted through a pathway initiated by the hydrolysis of linuron to 3,4-DCA, by libA,  which is then converted to Krebs cycle intermediates (Bers et al., 2011).
 
@@ -82,7 +82,7 @@ The focus was placed on these functional assays for the system since presence of
 Lastly, since there is still some mystery in the literature as to the exact mechanism through which nodulation and nitrogen fixation is decreased in the presence of linuron.  The main possibilities being (1) that the rhizobia are not tolerant to the pesticide, (2) the chemical signaling of the symbiotic interaction between plant root and rhizobia is disrupted by linuron thus preventing nodulation, and (3) the herbicide is decreasing the rhizobia’s ability in the formed nodule to exhibit nitrogenase activity.  The ability of our system to improve any of these rhizobial abilities were assayed by measuring MIC’s for (1), and conducting root nodulation assays for (2) and (3).
 
 
-##### Minimum Inhibitory Concentration (MIC) Herbicide Tolerance Assays
+#### Minimum Inhibitory Concentration (MIC) Herbicide Tolerance Assays
 
 To experimentally assay the ability of the system to increase the tolerance of rhizobia to linuron, MIC’s were used.  These were also conducted on the non-engineered B. diazoefficiens as a control and comparison for the engineered strain.  To do so, first the genes libA and nat1 were introduced into the engineered strain.
 
@@ -117,7 +117,7 @@ Each of these cases is described in more detail with quantitative justification 
 
 Overall the measurement and determination of MIC’s for the engineered and non-engineered rhizobia would allow us to determine if we have conferred a tolerance to linuron with our genetic system.
 
-##### Root-Nodulation Assays
+#### Root-Nodulation Assays
 
 As an alternative to MIC’s root nodulation assays would be used to directly measure the ability of the engineered rhizobia to nodulate soybean plants in the presence of linuron.  Whereas the mass/size of nodules has shown to be directly related to the nitrogen fixation ability (Tajima et al., 2007).
 
