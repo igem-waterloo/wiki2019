@@ -1,6 +1,6 @@
 # Contribution: Bronze medal criterion #5
 
-To fulfil bronze medal criterion #5, our team added characterization data to part [BBa_K2137001](http://parts.igem.org/Part:BBa_K2137001).  
+To fulfil bronze medal criterion #5, our team added characterization data to part [BBa_K2137001](http://parts.igem.org/Part:BBa_K2137001).   
 
 This part is a yeast promoter, CUP1, upstream of GFP. CUP1 is a copper-inducible promoter.The original characterization experiments for the promoter were limited by several design flaws. In the original experiments, cells were grown in YPGal media, which is a complex medium. Because of this, it is possible that there was copper in the medium, which would have induced the promoter and prevented us from obtaining accurate characterization data for the promoter. The YPGal media was also not selective for cells containing the vector, meaning that the vector may have been lost in a portion of the cells used for characterization. Finally, the experiments characterized the promoter using only a copper ion concentration of 200 µM.
 
