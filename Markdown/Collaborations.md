@@ -1,3 +1,11 @@
+#### Cairo iGEM:
+
+CUiGEM, the University of Cairo's new iGEM team, reached out to us early in the iGEM season asking for advice on starting team. We met on Janurary 26, 2019 to discuss our iGEM experience and offer them some guidance. We told them about what we found works in terms of team structure, finding funding/sponsors, selecting a project and track, etc. 
+
+Once they selected their project, we also helped give them some advice on how to isolate the Debaryomyces hansenii strain of yeast they needed for their project. It's been great seeing this new team's progress throughout the season! 
+
+![cuigem call](https://2019.igem.org/wiki/images/6/6f/T--Waterloo--CU_Collab.png)
+
 #### UAlberta iGEM:
 
 Near the beginning of the year, we were approached by the UAlberta iGEM team who were looking to do some more in-depth mathematical modelling.  They were wondering how best to answer some of their questions about their Beetector system with modelling such as: how many bees would they have to assay in the hive to give reliable results?  How could they ensure that the signal would be visible?  To help get them started and give some tips and tricks on how to effectively use modelling in iGEM projects, we met up online to share resources, have rudimentary workshops on modelling basics, and answer questions.  This helped them complete and get started on their modeling.  As well as, it allowed them to start exploring this aspect of iGEM projects without having members with previous experience with mathematical modelling.
@@ -35,22 +43,3 @@ Dylan met with UBC iGEM members Tylo, Samuel, and Emilia in August during a visi
 (Pictured: Tylo, Dylan, Samuel, Emilia)
 
 ![UBC Picture](https://2019.igem.org/wiki/images/8/8d/T--Waterloo--UBCCollabs.jpeg)
-
-
-#### University of Calgary iGEM
-
-This year, we collaborated with University of Calgary’s iGEM team in order to visualize collaborations between iGEM teams globally in addition to showing which topics teams choose to work on.
-
-The process followed was:
-* Scrape all team wikis to extract text (parsing team wiki links from https://igem.org/Team_Wikis?year=2016) using the Beautiful Soup Python library
-  * Crawling was limited to the team’s domain to prevent crawling external websites
-* Tokenize text and identify nouns, using the Natural Language Toolkit (NLTK) library in Python
-  * Use fuzzy string matching (computing the Levenshtein distance between two strings to allow for slight variations/typos) for:
-  * Identify biological terms that appear most frequently on each team’s wiki (a list of biological terms was curated beforehand)
-* On the “Collaborations” pages of wikis, any team names were identified and tracked as collaborations for that specific team
-* The geographical location of teams was obtained by extracting the geojson file from the Google Maps document posted in http://2016.igem.org/Community. These addresses were then fed into a Google geocoder API using GeoPy, in order to obtain the exact latitude and longitude of each team.
-* The data obtained was displayed using the Dash library in Python, powered by Plotly for a visualization of the teams on a world map
-
-In this visualization, one may hover over each team’s marker to see the team name in addition to any keywords that appeared frequently on the team’s wiki.
-
-
