@@ -23,7 +23,7 @@ Our project would not have been possible without the help of many people. Here, 
   Graduate student of Dr. Trevor Charles, Adrian Van Dyke, was of immeasurable help in guiding our team throughout the conjugation protocol, culturing rhizobia, and providing weekly aid and insight. 
    Alongside this, other parties non-affiliated with the university guided the development of the project. Barney Geddes, a Postdoctaral student at McMaster University, helped answer our questions regarding gene manipulation in *Bradyrhizobium* and root nodule forming assays. Dr. George DiCenzo, of Queen's Univerity, provided feedback and advice on the initial designs for cloning that were being used for the project. 
 
-  *...Joyn & George. *
+  *...Joyn *
    
 # Hardware Support 
   Large thanks go towards Dr. Josh Neufeld, Dr. Brain Ingalls, and Dr. Trevor Charles for allowing for the use of their lab equipment: the platereader, the flowcytometer, and the bioscreen respectively. Thanks also go to Dr.  Raymond Legge, for allowing the use of his facilities and his BioTek Synergy 4 plate reader. 
