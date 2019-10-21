@@ -94,34 +94,38 @@ Lastly, since there is still some uncertainty in the literature as to the exact 
 
 #### Minimum Inhibitory Concentration (MIC) Herbicide Tolerance Assays
 
-MICs were used to experimentally assay the ability of the system to increase the tolerance of rhizobia to linuron.  These were also conducted on the non-engineered B. diazoefficiens as a control and comparison for the engineered strain.  To do so, first the genes libA and nat1 were introduced into the engineered strain.
+We sought to use MIC experiments to evaluate the ability of our system to lend our organism increased linuron concentration.
 
-MICs evaluate the growth rate of microorganisms across a range of toxin concentrations to determine the toxin concentration at which growth is inhibited.  For example, a more tolerant organism would be inhibited at a higher concentration.  Thus, if libA and nat1 are expressed successfully and work as expected, the engineered strain would convert linuron to the less harmful N-acetyl-3,4-DCA allowing it to grow more successfully than the wild type at higher linuron concentrations.  As two toxic products are involved in the biotransformation of linuron to N-acetyl-3,4-DCA, both the toxicity of linuron and 3,4-DCA were evaluated.  For these experiments, the wild-type was taken to be the empty pRJPaph-GFP vector in either B. diazoefficiens or E. coli (since we transformed all constructs into E. coli first). This acted as our empty vector control for baseline tolerance. The same vector containing libA and nat1 was used to evaluate the engineered system.  This is because the metabolic burden of the plasmid might falsely suggest that the introduction of the two genes lowered the toxin tolerance if it were compared to B. diazoefficiens that is not expressing the additional GFP contained in the vector (which we used as a reporter).
+MIC experiments evaluate the growth rate of microorganisms across a range of toxin concentrations, determining the minimum toxin concentration at which growth is inhibited. If LibA and NAT1 were successfully expressed in the right amounts, our engineered strain would convert linuron to 3,4-DCAA, allowing it to grow more quickly than the wild type at higher linuron concentrations. 
 
-Although the main goal was to evaluate the engineered strain B. diazoefficiens we also chose to investigate the tolerance of E. coli to linuron.  This is because E. coli is a convenient proxy for B. diazoefficiens in that it has a much faster growth rate and was used to conduct all our cloning.  The pRJPaph plasmid is also expressed in both E. coli and B. diazoefficiens (Ledermann et al., 2015).
+In order to investigate our engineered system’s behaviour in detail, we chose to evaluate the toxicity of both linuron and 3,4-DCA. This would allow us to investigate the function of both LibA and NAT1. We chose to use wild-type bacteria, those containing the empty pRJPaph-GFP vector, and those containing the construct with LibA and NAT1. Given the potential for increased metabolic burden due to pRJPaph-GFP, we decided to evaluate the success of our system by comparing the tolerance of the empty vector and construct strains only.
+
+Although the main goal was to evaluate our engineered B. diazoefficiens, we also chose to investigate the behaviour of E. coli. This is because E. coli is a convenient proxy for B. diazoefficiens because it has a much faster growth rate and was used to conduct our cloning. The pRJPaph plasmid is expressed in both E. coli and B. diazoefficiens (Ledermann et al., 2015).
 
 Relevant starting ranges of linuron and 3,4-DCA concentrations to test were chosen based on existing literature for other microbial organisms.  Linuron was reported to cause toxic effects at 74 µM (Santos, 2014), complete inhibition at 200 µM (Santos, 2014), and to inhibit root nodule formation at 12 µM (Fernandez-Pascual, 1988). 3,4-DCA was reported to cause toxic effects at 3 µM (Tixier, 2002). Our toxin concentration ranges were also limited by the relatively low water solubilities of linuron and 3,4-DCA: 301 µM and 568 µM respectively. We therefore chose to use linuron concentrations of 290 - 4.42E-02 µM and 3,4-DCA concentrations of 550 - 8.38E-02 µM.
 
-The following cases describe what could be observed in the MIC results.  All cases refer to the organism with the construct versus the empty vector.
+The following cases describe what could be observed in the MIC results.  All cases refer to the organism with the construct versus the empty vector. These are based on the assumption that the desired end product, 3,4-DCAA, is of limited toxicity, that 3,4-DCA is very toxic, and that linuron has an intermediate toxicity, as described by Tixier et al (Tixier, 2002). 
+
+![Chosen Pathway](https://2019.igem.org/wiki/images/8/80/T--Waterloo--Chosenpathway_linurondegradation.png)
 
 **1.** If NAT1 is sucessfully expressed:
-*The organism will show increased tolerance to 3,4-DCA due to NAT1's ability to transform 3,4-DCA into 3,4-DCAA, a less toxic derivative
+* The organism will show increased tolerance to 3,4-DCA due to NAT1's ability to transform 3,4-DCA into 3,4-DCAA, a less toxic derivative
 
 **2.** If LibA is successfully expressed without NAT1:
-*The organism’s 3,4-DCA tolerance will be unchanged
-*The organism’s linuron tolerance will be lower since LibA will catalyse the formation of toxic 3,4-DCA, which cannot be further transformed
+* The organism’s 3,4-DCA tolerance will be unchanged
+* The organism’s linuron tolerance will be lower since LibA will catalyse the formation of toxic 3,4-DCA, which cannot be further transformed
 
 **3.** If LibA is successfully expressed in addition to NAT1:
-*The organism may show higher or lower tolerance depending on the relative rates of the two reactions (3a, 3b)
+* The organism may show higher or lower tolerance depending on the relative rates of the two reactions (3a, 3b)
 
 **3a.** If NAT1 is working much faster than LibA:
-*The organism will show higher tolerance to linuron
-*Linuron is broken down to the more toxic 3,4-DCA by LibA, but the 3,4-DCA is quickly converted to the less harmful 3,4-DCAA so that the 3,4-DCA concentration never reaches toxic levels
+* The organism will show higher tolerance to linuron
+* Linuron is broken down to the more toxic 3,4-DCA by LibA, but the 3,4-DCA is quickly converted to the less harmful 3,4-DCAA so that the 3,4-DCA concentration never reaches toxic levels
 
 **3b.** If NAT1 is working much slower than LibA:
-*The organism will show lower tolerance to linuron
-*Linuron is broken down to the more toxic 3,4-DCA by LibA, and 3,4-DCA accumulates in the cell since NAT1 is not able to break it down fast enough
-*The accumulated 3,4-DCA causes toxic effects in the cell
+* The organism will show lower tolerance to linuron
+* Linuron is broken down to the more toxic 3,4-DCA by LibA, and 3,4-DCA accumulates in the cell since NAT1 is not able to break it down fast enough
+* The accumulated 3,4-DCA causes toxic effects in the cell
  
 Each of these cases is described in more detail with quantitative justification on our [model page](https://2019.igem.org/Team:Waterloo/Model). Enzymatic reaction rate is proportional to both enzyme concentration and the kinetic parameter *k*<sub>cat</sub>, neither of which is well-characterised for our system.
 
@@ -186,5 +190,7 @@ Sandermann, H., Heller, W., Hertkorn, N., Hoque, E., Pieper, D., & Winkler, R. (
 Santos, S., Romeu, V., Maria, F., Sharon, C., António, M., Joaqium, V., & Amália, J. (2014). Toxicity of the herbicide linuron as assessed by bacterial and mitochondrial model systems. Toxicology in Vitro, 28 doi:10.1016/j.tiv.2014.04.004
 
 Tajima, R., Lee, O. N., Abe, J., Lux, A., & Morita, S. (2007). Nitrogen-Fixing Activity of Root Nodules in Relation to Their Size in Peanut (Arachis hypogaea L.). Plant Production Science, 10(4), 423–429. https://doi.org/10.1626/pps.10.423
+
+Tixier, C., Sancelme, M., Aït-Aïssa, W., P., Bonneymoy, F., Cuer, A., Fruffaut, N., & Veschambre, H. (2002). Biotransformation of phenylurea herbicides by a soil bacterial strain, arthrobacter sp. N2: Structure, ecotoxicity and fate of diuron metabolite with soil fungi. Chemosphere, 46, 519-526. doi:10.1016/S0045-6535(01)00193-X
 
 Zablotowicz, R. M. & Reddy, K. N. (2004). Impact of glyphosate on the Bradyrhizobium japonicum symbiosis with glyphosate-resistant transgenic soybean: a minireview. J. Environ Qual., 33(3), 825-831.
