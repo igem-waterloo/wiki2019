@@ -1,4 +1,3 @@
-# Evaluation of toxin tolerance by MIC assay
 
 We have determined the toxicity of linuron and 3,4-Dichloroaniline (3,4-DCA) toward *B. diazoefficiens* using growth curve Minimum Inhibitory Concentration (MIC) experiments, with IC<sub>50</sub> values of 24.01 and 20.82 µM respectively. These values confirm that linuon is indeed toxic to *B. diazoefficiens* at agriculturally-relevant concentrations (Fernandez-Pascual, 1988). This information demonstrates the need for a more tolerant engineered organism. The collected toxicity data also provides benchmarks against which to compare the performance of any future engineered strains.
 
