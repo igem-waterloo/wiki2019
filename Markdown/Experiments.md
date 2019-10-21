@@ -63,8 +63,6 @@
 
 6. Add 3 seeds per pot. Add one seed to each hole, and wait for 5 days. Place in the incubator. 
 
-7. Place pots on a tray, and then in the incubator. 
-
 ## Care for Plants and Bacterial Treatment 
 * (optional) after shoots show, flood with bacterial inoculum.
 * Remove any underdeveloped shoots, always leaving one growing plant in the pots.
