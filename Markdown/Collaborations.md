@@ -51,3 +51,9 @@ Dylan met with UBC iGEM members Tylo, Samuel, and Emilia in August during a visi
 (Pictured: Tylo, Dylan, Samuel, Emilia)
 
 ![UBC Picture](https://2019.igem.org/wiki/images/8/8d/T--Waterloo--UBCCollabs.jpeg)
+
+#### oGEM (Ontario iGEM conference)
+
+Finally we would like to thank the University of Guelph iGEM team for hosting the oGEM conference on the 5th of October this year. We were glad to be given the opportunity to present our project progress and recieve feedback on our presentation.
+
+![oGEM pic](https://2019.igem.org/wiki/images/6/6a/T--waterloo--oGEMpic.jpeg)

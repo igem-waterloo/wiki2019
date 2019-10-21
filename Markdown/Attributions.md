@@ -23,14 +23,13 @@ Our project would not have been possible without the help of many people. Here, 
   Graduate student of Dr. Trevor Charles, Adrian Van Dyke, was of immeasurable help in guiding our team throughout the conjugation protocol, culturing rhizobia, and providing weekly aid and insight. 
    Alongside this, other parties non-affiliated with the university guided the development of the project. Barney Geddes, a Postdoctaral student at McMaster University, helped answer our questions regarding gene manipulation in *Bradyrhizobium* and root nodule forming assays. Dr. George DiCenzo, of Queen's Univerity, provided feedback and advice on the initial designs for cloning that were being used for the project. 
 
-  *...Joyn & George. *
+  *...Joyn *
    
 # Hardware Support 
   Large thanks go towards Dr. Josh Neufeld, Dr. Brain Ingalls, and Dr. Trevor Charles for allowing for the use of their lab equipment: the platereader, the flowcytometer, and the bioscreen respectively. Thanks also go to Dr.  Raymond Legge, for allowing the use of his facilities and his BioTek Synergy 4 plate reader. 
 
 # Human Practices
   We would like to thank the following people for taking time out of their day to help us better understand the implications and implementations of our project. Thank you to Dr. Breanne Tidemann and Dr. Sara Martin of Agriculture and Agri-Food Canada who helped us learn the typical views on herbicides from the general public, barriers to communicating agriculture practices, and potential ways to overcome them. As well, thanks to Steven Fekete of Fekete Farms and Karl Gmach from Gmach Gardens for speaking with us about their farming practices, including fertilizer and herbicide use, and communicated potential concerns from their consumers about our project. Finally, thank you to Phil Nadalin from Bayer Canada for answering our questions concerning current industry standards with using *Rhizobia*, as well as on potential implementation of our project.
-# Wiki and Logo Development
 # Administrative Help
 We would like to thank Lucy Satora for providing administrative assistance and help with handling shipments during this years project, and Vivian Cheung's help in regards to financial administration.
 # Sponsors
