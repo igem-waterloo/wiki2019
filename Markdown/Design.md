@@ -151,6 +151,22 @@ We found that the commonly-used glyphosate herbicide also inhibited nitrogen fix
 
 Glyphosate is typically utilized with “Round-Up Ready” plants by Monsanto which have been genetically engineered to be resistant to the pesticide. This was accomplished by replacing the wild type copy of the enzyme inhibited by glyphosate, 5-enolpyruvylshikimate-3-phosphate (EPSP) synthase, with a copy of the gene found in agrobacterium sp. strain CP4, which demonstrates low levels of inhibition. When this glyphosate-resistant gene is engineered into soybeans, the shikimate pathway, which is required for the production of aromatic amino acids, is no longer inhibited and the plant is able to survive (Funke et al., 2006). We envisioned that by integrating this CP4 EPSP synthase gene from the original Monsanto patent (which we codon optimized for B. diazoefficiens) into the genome of our rhizobia, we could introduce glyphosate tolerance, in the same way it is done for plants. We chose to pursue this project alongside our linuron project in hopes of demonstrating that rhizobia could be made tolerant to different herbicides by a variety of ways and that mechanisms to accomplish this could be tailored to each herbicide.
 
+## Optimizing Growth Conditions for Soybeans
+
+The optimization of growth conditions for the soybeans was conducted by growing the soybean seeds in different set-ups, testing different conditions for germination, and using different watering schedules. 
+
+The growth conditions that remained constant throughout the experiments were temperature, photoperiod, and light intensity. These conditions were provided by Scott Liddycoat, a technician in the Department of Biology at the University of Waterloo. He was frequently consulted, and provided advice on watering conditions for the soybeans to facilitate nodulation. Scott supplied the cabinet conditions used at the University of Waterloo for growing soybeans. It was decided that the normal conditions for temperature, photoperiod and light would be sufficient for the experiments, and that they did not require conditions that deviate from what is typically seen in literature (Lebreton, Labbé, De Ronne et al, 2018; Schweitzer & Harper, 1980). However, a condition that was not measured or controlled was the humidity inside the growth cabinet.
+
+The watering schedule was the only thing subject to change; in all instances DI-water was used, as to further starve the plants of nutrients, encouraging nodulation. Vermiculite was soaked, watered by flooding for fifteen minutes, and applied topically by a watering can. The topical application showed the best results, despite being the least quantitative measure of watering. Soaking and flooding the vermiculite resulted in soybeans having stunted growth.
+ 
+Since the plants were not grown past a period of four weeks, it was not deemed necessary supply the soybeans with any fertilizer. This should have also further encouraged root nodule formation through nutrient deprivation. Vermiculite was used for this reason as well - it is easier to control which nutrients are in vermiculite, rather than soil. 
+
+The growth portion of the experiments was conducted non-aseptically due to available equipment, available space and little risk of contamination from microorganisms that would compromise the results of the experiments. 
+
+The final growth conditions were: 
+* Cabinet settings of 16 hours of high light at 21°C and 8 hours of no light at 19°C
+* Topical application of DI water as needed 
+* Plants added to pots of soaked vermiculite
 
 # Citations:
 
@@ -174,6 +190,8 @@ Heisler, J., Glibert, P. M., Burkholder, J. M., Anderson, D. M., Cochlan, W., De
 
 Kim, Y.-M., Park, K., Kim, W., Shin, J., Kim, J., Park, H., & Rhee, I. (2007). Cloning and Characterization of a Catechol-Degrading Gene Cluster from 3,4-dichloroaniline Degrading Bacterium Pseudomonas sp. KB35B. Journal of Agricultural and Food Chemistry, 55, 4722–4727.
 
+Lebreton, A., Labbé, C., De Ronne, M., Xue, A. G., Marchand, G., & Bélanger, R. R. (2018). Development of a simple hydroponic assay to study vertical and horizontal resistance of soybean and pathotypes of Phytophthora sojae. Plant disease, 102(1), 114-123.doi: 10.1094/PDIS-04-17-0586-RE
+ 
 Ledermann, R., Bartsch, I., Remus-Emsermann, M. N., Vorholt, J. A., & Fischer, H.-M. (2015). Stable Fluorescent and Enzymatic Tagging ofBradyrhizobium diazoefficiensto Analyze Host-Plant Infection and Colonization. Molecular Plant-Microbe Interactions, 28(9), 959–967. https://doi.org/10.1094/MPMI-03-15-0054-TA
 
 Ontario Ministry of Agriculture, Food, and Rural Affairs (OMAFRA). (2018, February 8). Soybean Production in Ontario. Retrieved October 19, 2019, from http://www.omafra.gov.on.ca/english/crops/field/soybeans.html
@@ -188,6 +206,8 @@ Stoker, T. E., & Kavlock, R. J. (2010). Pesticides as Endocrine-Disrupting Chemi
 Sandermann, H., Heller, W., Hertkorn, N., Hoque, E., Pieper, D., & Winkler, R. (1998). A New Intermediate in the Mineralization of 3,4-Dichloroaniline by the White Rot Fungus Phanerochaete chrysosporium. Applied and Environmental Microbiology, 64(9), 3305–3312. Retrieved from https://aem.asm.org/content/64/9/3305
 
 Santos, S., Romeu, V., Maria, F., Sharon, C., António, M., Joaqium, V., & Amália, J. (2014). Toxicity of the herbicide linuron as assessed by bacterial and mitochondrial model systems. Toxicology in Vitro, 28 doi:10.1016/j.tiv.2014.04.004
+
+Schweitzer, L. E. & Harper, J. E. (1980). Effect of Light, Dark and Temperature on Root Nodule Activity (Acetylene Reduction) of Soybeans. Plant Physiology, 65(1), 51-56. doi: 10.1104/pp.65.1.51
 
 Tajima, R., Lee, O. N., Abe, J., Lux, A., & Morita, S. (2007). Nitrogen-Fixing Activity of Root Nodules in Relation to Their Size in Peanut (Arachis hypogaea L.). Plant Production Science, 10(4), 423–429. https://doi.org/10.1626/pps.10.423
 
