@@ -21,13 +21,13 @@ The results of these experiments are presented in figures 5, 6, and 7.
 ![T1](https://2019.igem.org/wiki/images/8/83/T--Waterloo--T1.png)
 
 
-These differences in toxicity profiles are demonstrated by the key inhibitory concentrations in figure 7. Linuron’s IC<sub>50</sub> value is higher than that of 3,4-DCA, demonstrating that linuron is generally less toxic than 3,4-DCA. This agrees with reported toxicity values (Tixier, 2002) (Santos, 2014). Comparing IC<sub>10</sub> values shows that 3,4-DCA starts showing toxic effects at a much lower concentration than linuron, due to steeper slope of the plot for linuron. The steeper slope of linuron’s plot also means that linuron’s IC<sub>90</sub> is much lower than that of 3,4-DCA. This means that ful growth inhibition actually requires a lower concentration of linuron than of 3,4-DCA, despite linuron’s lower IC<sub>50</sub>. These differences highlight the importance of examining the entire toxicity profile and various inhibitory concentrations, since these convey much more information that the IC<sub>50</sub> value alone. 
+These differences in toxicity profiles are demonstrated by the key inhibitory concentrations in figure 7. Linuron’s IC<sub>50</sub> value is higher than that of 3,4-DCA, demonstrating that linuron is generally less toxic than 3,4-DCA. This agrees with reported toxicity values (Tixier, 2002) (Santos, 2014). Comparing IC<sub>10</sub> values shows that 3,4-DCA starts showing toxic effects at a much lower concentration than linuron, due to steeper slope of the plot for linuron. The steeper slope of linuron’s plot also means that linuron’s IC<sub>90</sub> is much lower than that of 3,4-DCA. This means that full growth inhibition actually requires a lower concentration of linuron than of 3,4-DCA, despite linuron’s lower IC<sub>50</sub>. These differences highlight the importance of examining the entire toxicity profile and various inhibitory concentrations, since these convey much more information that the IC<sub>50</sub> value alone. 
 
 We have therefore experimentally deteremined the toxicity profiles of both linuron and 3,4-DCA toward wild type *B. diazoefficiens*, validating our experimental approach. This information provides also a reference point against which to compare engineered strains, other toxins, or bacterial species.
 
 ## Single-timepoint experiment with wild-type *B. diazoefficiens*
 
-In addition to the growth curve experiment peformed with *B. diazoefficiens* and linuron and 3,4-DCA, we also completed this experiment in single-time point format. This was done using one Abs<sub>600</sub> after 22 hours incubation at 30 C. Figures 8 and 9 show plots of Abs<sub>600</sub> versus toxin concentration. These results are shown in figures 8, 9, and 10. Fitting was performed to the four parameter in equation 1.
+In addition to the growth curve experiment peformed with *B. diazoefficiens* both in linuron and 3,4-DCA, we also completed this experiment in single-time point format. This was done using one Abs<sub>600</sub> after 22 hours incubation at 30 C. Figures 8 and 9 show plots of Abs<sub>600</sub> versus toxin concentration. These results are shown in figures 8, 9, and 10. Fitting was performed to the four parameter in equation 1.
 
 ![LinBd1](https://2019.igem.org/wiki/images/5/5b/T--Waterloo--LinBd1.png)
 
@@ -45,12 +45,12 @@ In addition to the growth curve experiment peformed with *B. diazoefficiens* and
 
 Figures 8 and 9 both show the characteristic sigmoidal shapes expected for MIC experiments. All datapoints are very close to the sigmoidal fit, indicating that this model is a good representation of the data. 
 
-Figure 10 summarizes some key inhibitory concentrations as calculated based on these growth curves. Although the two curves have the same general shape as those determined using the growth curve MICs, the calculated inbitory concentrations are somewhat different. The single timepoint data’s IC<sub>50</sub> values suggest that linuron is more toxic that 3,4-DCA, which disagrees with the results obtained using growth curves and literature toxicity data (Tixier, 2002) (Santos, 2014). This highlights the shortfalls of determining toxicity from Abs<sub>600</sub> at a single timepoint and the importance of using growth curves to evaluate a toxin’s overall effect on an organism’s growth rate. 
+Figure 10 summarizes some key inhibitory concentrations as calculated based on these growth curves. Although the two curves have the same general shape as those determined using the growth curve MICs, the calculated inbitory concentrations are somewhat different. The single timepoint data’s IC<sub>50</sub> values suggest that linuron is more toxic that 3,4-DCA, which disagrees with the results obtained using growth curves and literature toxicity data (Tixier, 2002; Santos, 2014). This highlights the shortfalls of determining toxicity from Abs<sub>600</sub> at a single timepoint and the importance of using growth curves to evaluate a toxin’s overall effect on an organism’s growth rate. 
 
 
 ## Single-timepoint experiment with *E. coli* empty vector and constructs 
 
-We also chose to evaluate the linuron and 3,4-DCA tolerance of our engineered DH5α strains. We performed single-timepoint MICs after 7 hours incubation at 30 C using empty vector pRJPaph-GFP and two constructs, numbers 14 and 21, which had been verified by colony PCR, sequencing, and GFP fluorescence. Each was completed in triplicate using LB supplemented with tetracycline to promote vector retention. Figures 3 and 4 show plots of Abs<sub>600</sub> versus log toxin concentration for each.
+We also chose to evaluate the linuron and 3,4-DCA tolerance of our engineered DH5α strains. We performed single-timepoint MICs after 7 hours incubation at 30 C using empty vector pRJPaph-GFP and two constructs, assigned the numerical values of 14 and 21. These constructs had been vertified by colony PCR, sequencing, and GFP fluorescence reading. Each single-timepoint MIC was completed in triplicate, using LB supplemented with tetracycline to promote vector retention. Figures 3 and 4 show plots of Abs<sub>600</sub> versus log toxin concentration for each.
 
 
 ![LinEc](https://2019.igem.org/wiki/images/c/c9/T--Waterloo--LinEc.png)
@@ -66,7 +66,7 @@ Linuron (figure 3) does not show any significant inhibition, even at the highest
 
 3,4-DCA (figure 4) shows nearly equal inhibition of all three strains beginning at 226 µM 3,4-DCA. However, since the lower “minimal growth rate” region is absent, sigmoidal fitting was not applied, so it is not possible to calculate paramters such as IC<sub>50</sub>. As with linuron, obtained data at higher toxin concentrations would be challenging due to solubility constraints. Additionally, there are no significant differences between the Abs<sub>600</sub> values of the different strains at any toxin concentration, suggesting that the construct and empty vector do not cause differences in growth.
 
-These experiments therefore demonstrate that the construct does not lend linuron or 3,4-DCA tolerance to *E. coli* DH5α. However, the lack of difference in growth rate provides some evidence that LibA and NAT1 do not impose a significant metabolic burden on DH5α when used in this expression system
+These experiments therefore demonstrate that the construct does not lend linuron or 3,4-DCA tolerance to *E. coli* DH5α. However, the lack of difference in growth rate provides some evidence that LibA and NAT1 do not impose a significant metabolic burden on DH5α when used in this expression system.
 
 Citations
 
