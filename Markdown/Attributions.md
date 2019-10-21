@@ -22,8 +22,8 @@ Our project would not have been possible without the help of many people. Here, 
   Along with the guidance provided by the Waterloo iGEM advisors, faculty and graduate students of the university were consulted, and aided in the development of our design. Thanks go out to Scott Liddycoat, who is a departmental technician in the faculty of science, and who helped us optimize the growing conditions of the soybeans. As well, to the departmental technician Cheryl Soullière who provided a protocol for facilitating nodulation in soybean plants, as conducted for the university labs. 
   Graduate student of Dr. Trevor Charles, Adrian Van Dyke, was of immeasurable help in guiding our team throughout the conjugation protocol, culturing rhizobia, and providing weekly aid and insight. 
    Alongside this, other parties non-affiliated with the university guided the development of the project. Barney Geddes, a Postdoctaral student at McMaster University, helped answer our questions regarding gene manipulation in *Bradyrhizobium* and root nodule forming assays. Dr. George DiCenzo, of Queen's Univerity, provided feedback and advice on the initial designs for cloning that were being used for the project. 
+  Dr. Robin Horst, a senior scientist at [Joyn Bio](https://joynbio.com/) also met with us in July to discuss our project. He gave us advice on our epxerimental design (which controls to include, how many replicates we need when working with plants,  
 
-  *...Joyn *
    
 # Hardware Support 
   Large thanks go towards Dr. Josh Neufeld, Dr. Brain Ingalls, and Dr. Trevor Charles for allowing for the use of their lab equipment: the platereader, the flowcytometer, and the bioscreen respectively. Thanks also go to Dr.  Raymond Legge, for allowing the use of his facilities and his BioTek Synergy 4 plate reader. 
