@@ -27,14 +27,17 @@ We have therefore experimentally deteremined the toxicity profiles of both linur
 
 In addition to the growth curve experiment peformed with *B. diazoefficiens* and linuron and 3,4-DCA, we also completed this experiment in single-time point format. This was done using one Abs<sub>600</sub> after 22 hours incubation at 30 C. Figures 8 and 9 show plots of Abs<sub>600</sub> versus toxin concentration. These results are shown in figures 8, 9, and 10. Fitting was performed to the four parameter in equation 1.
 
-![]()
+![LinBd1](https://2019.igem.org/wiki/images/5/5b/T--Waterloo--LinBd1.png)
+
 *Figure 8*. Abs<sub>600</sub> versus linuron concentration at 22 hours. Error bars represent standard deviations of sextuplicates. The sigmoidal fit parameters A, B, C, and D are 1.28E-02, 5.52E-02, 1.62, and 1.28E+01 respectively.
 
-![]()
+![DCABd1](https://2019.igem.org/wiki/images/e/ed/T--Waterloo--DCABd1.png)
+
 *Figure 9*. Abs<sub>600</sub> versus linuron concentration at 22 hours. Error bars represent standard deviations of sextuplicates. The sigmoidal fit parameters A, B, C, and D are 1.50E-02, 5.47E-02, 8.97E-01, and 3.08E+01 respectively.  
 
 *Figure 10*. Summary of key inhibitory concentrations for linuron and 3,4-DCA with *B. diazoefficiens* after 22 hours. 
-![]()
+
+![T2](https://2019.igem.org/wiki/images/2/2d/T--Waterloo--T2.png)
 
 
 Figures 8 and 9 both show the characteristic sigmoidal shapes expected for MIC experiments. All datapoints are very close to the sigmoidal fit, indicating that this model is a good representation of the data. 
