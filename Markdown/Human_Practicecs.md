@@ -183,7 +183,7 @@ As stated in the directive, not all microorganisms require the same type of info
 - Potency Estimation and Product Guarantee
 - Storage Stability Testing
 - Food and Feed Residue Studies
--Laboratory Studies on Environmental Fate
+- Laboratory Studies on Environmental Fate
   - Pure Culture Testing
   - Microcosm Testing 
 - Value Assessment 
@@ -194,6 +194,82 @@ As stated in the directive, not all microorganisms require the same type of info
 ## Conclusions
 
 Many of the data that needs to be gathered for successful registration and use of our product requires equipment, space and time beyond the scope of our project. We strongly believe that if we had all of this data gathered, our altered Rhizobia would have a strong chance of being accepted and becoming an integral part of integrated weed management strategies in Canadian agriculture. 
+
+
+---
+
+
+# Farmer Profiles
+
+To help our lab team design and implement our project we spoke with local farmers to better understand their thoughts on genetically modified Rhizobia, and how it would impact their farming practices. A long term goal of our project is to have a product for farmers that is easy to use, understand, and work with. To assess how this could be achieved we focused our questions on getting to know our local farmers personally (how long have they been practicing, what do they farm, what techniques do they currently use, etc.) as well what key factors they look for when considering a new product and whether or not to implement it into their practices.
+
+## Karl Gmach
+### Gmach Gardens
+![karl6](https://2019.igem.org/wiki/images/7/78/T--Waterloo--karl6.jpg)
+
+Starting his farm in 1934 in the rural areas of the Waterloo Region, Karl from Gmach Gardens is a seasoned grower with an abundance of farming experience. As a traditional grower, Karl is a strong proponent of natural and holistic farming. He prides his farm on supplying consumers GMO-free produce. Additionally, Karl only uses as much pesticide as needed each season and favours organic fertilizers (such as manure) over commercially available products. However, fertilizer can be expensive ($500 per acre of land) and Karl tries to utilize alternative farming practices, such as manual removal of weeds as a pest control method, whenever possible.  
+Karl told us that although he does not know a lot about genetically engineered bacteria and their effects, he is more than willing to implement modified Rhizobia into his farming practice and use less fertilizer. 
+Karl is aware that his customers are often hesitant to products labelled ‘GMO’, so before implementing modified Rhizobia into his farms he would want to ensure it is cheap, safe, effective, and easy to implement into his current practices. 
+
+### Highlights
+
+Interested in using modified Rhizobia but only if it is cheap, safe and easy to implement. Concerned about how consumers will feel towards modified soil bacteria and growing conditions. 
+
+## Steven Fekete
+### Fekete Farms 
+
+![steven3](https://2019.igem.org/wiki/images/8/89/T--Waterloo--steven3.jpg)
+
+Fekete Farms is a 3rd generation family-run farm by brother-sister pair, Steven and Carolyn Fekete local to the Region of Waterloo. Steven told us that he uses pesticides every 2-3 weeks along with fumigating the soil for nematodes once every year. Each season, Steven gets the nutrients in his soil analyzed by the Canadian Department of Agriculture and Agri-Food to determine the volume and variety of fertilizer he should use. However, he highlighted to us that he only uses the minimum amount of fertilizer required due to its expensive price tag. Steven has a strong understanding of the microbial environment in the soil as well as the technological advances in genetic engineering technology, specifically seeds inoculated with genetically modified bacteria.  Steven told us that he understands using modified bacteria would save his practice money, but has concerns that his consumers will not respond well to ‘bacterially enhanced’ produce due to a lack of education on what genetic engineering really is. Steven often receives questions from his customers about how safe GMOs are and though he would like to use less fertilizer, he wants to make sure his sales will not be negatively impacted. 
+
+### Highlights
+
+A strong supporter of modified Rhizobia and modified Rhizobia-based products. Concerned how consumers will feel towards ‘bacterially enhanced’ produce.
+
+
+---
+
+
+# System Implementation
+
+## Background
+To better understand how our genetically modified rhizobia could be used in industry, we did some online research and also reached out to Phil Nadalin of Beyer Canada, a company that regularly deals with the distribution process of inoculated seeds. This allowed us to better understand how our project could be implemented in the current market, and helped us to identify new avenues for improvement.
+
+## Current Process
+
+Inoculation is defined as “the process of introducing Rhizobium bacteria into the soil in close proximity to the seed” so that the Rhizobia can infect the root hairs and fixate nitrogen for the developing seedling.<sup>27</sup> Seeds are either pre-inoculated (during late winter - early spring) or have the rhizobia applied in the field (as a peat, liquid, or granular based product) in the furrow with the seeds. 
+
+## Pre-inoculation
+
+For the pre-inoculated process, seeds are inoculated while being treated with fungicides and insecticides during the previous fall, winter, or early spring. This is done with a “peat-based inoculant encapsulated with a seed coating” using commercial seed treaters such as the drum treater shown in figure 1.
+ 
+![drumbarrell](https://2019.igem.org/wiki/images/8/89/T--Waterloo--drumbarrell.png)
+A drum treater (Image from Ag Solutions Group<sup>28</sup>)
+
+The treated seeds can then be stored in bagged units or totes during the winter, or transferred directly to gravity wagons for farmers usage. The seeds need to remain out of the sun and should be kept cool and dry with minimal temperature fluctuation.
+
+## Application in the field
+
+To be applied in the field, the rhizobium bacteria will be contained within a peat, liquid, or granular based product. All of these products should be placed in the seedrow or in a sideband (approximately one inch below and one inch to the side of the seed) so that the rhizobia can quickly come in contact with the developing seedlings. The rhizobia should be applied using a tank and meter that is separate from any fertilizer.
+
+## Common Practices
+
+*Rhizobia* is often used with Penicillium bilaiae, which is “a fungus that solubilizes phosphate to make it more available for plant uptake.'' It is also used with Lipo-chitin oligosaccharides (LCOs), which are a “type of additive found in select products. The nodulation process starts with the pulse root secreting flavonoids, which are sensed by the rhizobia. In response, the rhizobia produce their own signal (Nod factor) back to the plant, and the plant responds by allowing the root hair to be infected by the rhizobia. These Nod factors are often called LCOs, and can be included in some inoculants.” <sup>27</sup>
+
+For harsh conditions, granular products are usually preferred over other methods. This is particularly true when soil moisture conditions are below normal.
+
+## How This Relates To Our Project
+
+Assuming that our modified rhizobia are as durable as the natural rhizobia, there should be no issue in the technical feasibility of implementing our rhizobia using the standard inoculation procedure. Potential issues would lie mostly in regulations around this process, as well as stigma and a lack of market demand. For example, if the genetically modified rhizobia need to be kept separate from standard rhizobia then we would need a seperate tank and pumping system to accommodate that.
+We have also learned that inoculated seeds would need to be kept cool and dry during storage to help with the effectiveness of the product. Additionally, future testing could be done with various fungicides and insecticides as well as with Penicillium bilaiae and LCOs to ensure the compatibility of our modified rhizobia with the inoculation process.
+
+
+---
+
+
+# Public Perception
+
+
 
 
 
