@@ -80,7 +80,7 @@ Propanil is not classified as a human carcinogen, but can be lethal if ingested.
 ---
 
 
-# Regulations on the Use of Linuron and Glyphosate
+# Use of Linuron and Glyphosate in Canada
 
 Our project focuses on the use of herbicides within the realm of Canadian agricultural practices, but mainly in soybean crop cultivation. In order to do so, we narrowed down our choices of herbicide to two different contenders; linuron and glyphosate. To learn about the regulations for each of these pesticides, we emailed Robert Martin to help us find a starting point. Robert Martin is the Regulatory Information Officer at the _Pest Management Regulatory Agency in Canada_, and he directed us to the re-evaluation notices of both linuron and glyphosate. In order to fully comprehend his detailed response, we organized the background information on both herbicides we chose. We then added the key points from his email and the re-evaluations to guide us on where to go next.
 
@@ -104,12 +104,69 @@ In 2017, _Health Canada_ published their final re-evaluation stating that glypho
  
 Linuron, on the other hand, remains a concern. In February 2012, a proposed re-evaluation was published by _Health Canada_ stating their intention of removing linuron from the Canadian market entirely because “under the current conditions of use, the human health and environmental risks estimated for linuron do not meet current standards”.<sup>20</sup> _Health Canada_ wants to conclude that the best course of action was to get rid of linuron, however the final decision has yet to be made.<sup>20</sup>  This decision is set to be published in February 2020.
 
-Conclusions
+## Conclusions
  
 Completely ridding of linuron does not help our project. However, if we could successfully prove our hypothesis through the introduction of genes for linuron metabolism in _Bradyrhizobia_, our project could act as a precedent for other potential ventures focussed on herbicide metabolism in similar microorganisms by introducing transgenes.
 
 
 ---
+
+
+# Scientist Interviews
+
+While developing our project, we wanted to consult research experts in the field to better understand the regulations that guide their work, as well as their experience interacting with the general public regarding the controversy in agriculture. We were fortunate to have been able to correspond with two research scientists at _Agriculture and Agri-Food Canada_ to talk about their experience on these matters. The following sections summarize our findings from our conversations with Dr. Breanne Tidemann an Dr. Sara Martin.
+
+### Dr. Breanne Tidemann, Research Scientist (Field Agronomy, Weed Science) 
+
+![breanetidemann](https://2019.igem.org/wiki/images/8/8a/T--Waterloo--breanetidemann.jpg)
+
+Individuals in the agriculture community, both in research and industry understand the reasons for herbicide use. The general public needs help understanding why herbicides are important. This can be achieved through comparisons and analogies, such as comparing large-scale farming to gardening. Weeding gardens in homes by hand to keep flower beds healthy is feasible. Weeding a farmland that is thousands of times bigger than a common flower bed and contains that many weeds by hand is no longer a feasible way of dealing with weeds choking out desired plants. Furthermore, hand weeding is not a fun job; finding labour workers for it would be difficult and not economically feasible for the land owners. 
+
+The general public has an aversion to products that have had pesticides or herbicides used on them, but they do not recognize that something being labelled “organic” does not necessarily mean “pesticide free.” Organic farming uses a different set of accepted pesticides, such as vinegar (acetic acid) or iron products. Currently organic farms produce far lower yields with their methods and are therefore infeasible to be the only methodology used for food production on a national and global scale. 
+
+### Dr. Sara Martin, Research Scientist (Plant Systematics, Weeds and Invasive Species) 
+
+![saramartin](https://2019.igem.org/wiki/images/2/29/T--Waterloo--saramartn.jpg)
+
+Members of the general public tend to have a negative view of herbicides and feel strongly that farmers should stop using them. However, farmers do not share this same view, as the herbicides that are currently being used in a widespread manner are being used for good reason. Often, the chemicals that could replace herbicide use are far worse for people and the environment. The agriculture industry, like all others, requires a workforce and without herbicides the labour of hand-weeding falls on a very vulnerable group of people. Weeding cannot be avoided, and they have to be removed in order to maintain ideal crop quality and yield. Historically, without herbicides the labour associated with weeding fell on women and children within the communities. Many people understand that this is historically what occurred in first world countries, but many don’t realize that this is actively occurring in third world countries. This is both economically inefficient and hard, potentially dangerous labour.
+
+Regarding federal and provincial regulations, it was suggested to look into the Pest Management Regulatory Agency to gain insight on pesticide regulations. 
+
+### Next Steps
+
+Both Dr. Tidemann and Dr. Martin feel that integrated weed management is the key moving forwards within the agricultural industry. The integrated weed management strategy requires the use of chemical, physical, biological, and cultural controls to manage weeds. This strategy only works when all these factors are effectively combined, not when any of them work alone. This strategy which takes into account aspects such as tillage, narrow row spacing, and using diverse crop rotation would help farmers develop competitive crops without relying solely on herbicide and pesticide use. The strategy of integrated weed management is one that could easily include our altered _rhizobia_ to aid with crop quality maintenance and yield rates. Furthermore, Dr. Martin’s suggestion to explore the Pest Management Regulatory Agency guided our investigation outlined in the following sections. 
+
+
+---
+
+# Herbicide Regulations
+
+Before proceeding further, we had to determine whether or not the work we were doing was permitted under restrictions set by the provincial government. We emailed both the Minister and Deputy Minister of Agriculture, Food and Rural Affairs to ensure  that our  research project complied with provincial policies. 
+
+The _Ontario Ministry of the Environment, Conservation and Parks_ administers the [Pesticide Act](https://www.ontario.ca/laws/statute/90p11) and [Regulation 63/09](https://www.ontario.ca/laws/regulation/090063), which is responsible for managing  the sale, use, transportation, storage and disposal of pesticides in Ontario.<sup>21,22</sup> Since we were applying glyphosate and linuron to our trials, we had to make sure we were working appropriately under the exemptions for the use of these pesticides for scientific purposes.  
+
+The linuron we are using falls under [Class 4](https://www.ontario.ca/page/class-4-pesticides) of _Regulation 63/09_.<sup>23,24</sup> [Section 9](https://www.ontario.ca/laws/regulation/090063#BK18) of _Regulation 63/09_ outlines the pesticides that are prohibited; it states that registered pesticides under class 4 are not part of the group of prohibited pesticides.<sup>22</sup> In a similar manner, the glyphosate we are using falls under [Class 7](https://www.ontario.ca/page/class-7-pesticides) of _Regulation 63/09_ and is not part of the group of prohibited pesticides as outlined by [Section 9](https://www.ontario.ca/laws/regulation/090063#BK18), as well.<sup>22,23,25</sup>
+
+![class4](https://2019.igem.org/wiki/images/5/52/T--Waterloo--class4.jpg)
+Image sourced from Environment and Energy Ontario.<sup>23</sup>
+
+![linuronclass4](https://2019.igem.org/wiki/images/c/cb/T--Waterloo--linuronclass4.jpg)
+Image sourced from Environment and Energy Ontario.<sup>24</sup>
+
+![class7](https://2019.igem.org/wiki/images/4/4b/T--Waterloo--class7.jpg)
+Image sourced from Environment and Energy Ontario.<sup>23</sup>
+
+![glyphosateclass7](https://2019.igem.org/wiki/images/2/26/T--Waterloo--glyphosateclass7.jpg)
+Image sourced from Environment and Energy Ontario.<sup>25</sup>
+
+![section9](https://2019.igem.org/wiki/images/a/ae/T--Waterloo--section9.jpg)
+Image sourced from Environment and Energy Ontario.<sup>25</sup>
+
+
+---
+
+
+
 
 
 
