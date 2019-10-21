@@ -5,7 +5,7 @@ Our project would not have been possible without the help of many people. Here, 
   
 # Co-op Students 
   Thanks go out to iGEM team member Claire, who also acted as the co-op student during the months of April - August. It was with their assistance that the literature discussing the nat1 gene, integral to the design of our project this year, was found. Claire's dedication, and all the time they put in with the day to day operations during the summer, helped the project develop as it did.
-  We would also like to acknowledge Gurlin Chudha, our financial co-op student.  
+  As a team member and our summer finance co-op, Gurlin was instrumental in coordinating our financial accounting, securing funding, and managing relations with our stakeholders.
   
 # Advisors
 
