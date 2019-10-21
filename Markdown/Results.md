@@ -43,10 +43,10 @@ Figure 10 summarizes some key inhibitory concentrations as calculated based on t
 We also chose to evaluate the linuron and 3,4-DCA tolerance of our engineered DH5α strains. We performed single-timepoint MICs after 7 hours incubation at 30 C using empty vector pRJPaph-GFP and two constructs, numbers 14 and 21, which had been verified by colony PCR, sequencing, and GFP fluorescence. Each was completed in triplicate using LB supplemented with tetracycline to promote vector retention. Figures 3 and 4 show plots of Abs<sub>600</sub> versus log toxin concentration for each.
 
 ![]()
-*Figure 3*. Abs_600 versus linuron concentration for 3 engineered DH5α strains at 7 hours. “EV” is pRJPaph-GFP and “14” and “21” each contain the construct with LibA and NAT1. Datapoints are averages of triplicates.
+*Figure 3*. Abs<sub>600</sub> versus linuron concentration for 3 engineered DH5α strains at 7 hours. “EV” is pRJPaph-GFP and “14” and “21” each contain the construct with LibA and NAT1. Datapoints are averages of triplicates.
 
 ![]()
-Figure 4. Abs_600 versus 3,4-DCA concentration for 3 engineered DH5α strains at 7 hours. “EV” is pRJPaph-GFP and “14” and “21” each contain the construct with LibA and NAT1. Datapoints are averages of triplicates.
+Figure 4. Abs<sub>600</sub> versus 3,4-DCA concentration for 3 engineered DH5α strains at 7 hours. “EV” is pRJPaph-GFP and “14” and “21” each contain the construct with LibA and NAT1. Datapoints are averages of triplicates.
 
 Linuron (figure 3) does not show any significant inhibition, even at the highest linuron concentrations. This means that it is not possible to compute parameters such as IC<sub>50</sub>, so sigmoidal fitting was not applied. Since higher linuron concentrations would not be possible due to solubility constraints, this type of assay is a poor method for evaluating LibA and NAT1 activity in *E. coli*. Additionally, there are no significant differences between the Abs<sub>600</sub> values of the different strains, suggesting that the construct and empty vector do not cause measurable differences in growth rate. 
 
