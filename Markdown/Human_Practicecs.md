@@ -67,7 +67,7 @@ The compounds were assessed along the following dimensions: **_Use and Environme
 
 ## Linuron
 
-![linuron3](https://2019.igem.org/wiki/images/0/07/T--Waterloo--linuron3.jpg)
+![linuron](https://2019.igem.org/wiki/images/6/61/T--Waterloo--linuron.jpg)
 
 Image sourced from Toxnet <sup> 1 </sup> 
 
@@ -235,7 +235,7 @@ Image sourced from Environment and Energy Ontario.<sup>25</sup>
 
 # Microbe Regulation
 
-![microbes](https://2019.igem.org/wiki/images/5/59/T--Waterloo--microbes.jpg)
+![microbes](https://2019.igem.org/wiki/images/5/59/T--Waterloo--microbes.jpg)<br>
 Image sourced from Grist
 
 Part of our project was to understand whether or not a genetically altered organism could be realistically applied and used in Canadian agriculture. To assess whether we could realistically expect our product to be used for agricultural purposes, we corresponded with the office of the _Ontario Minister of Agriculture, Food and Rural Affairs_. Our altered Rhizobia falls under national pesticide regulations, specifically under the regulations set in place by the Pest Management Regulatory Agency. The regulatory directive [Guidelines for the Registration of Microbial Pest Control Agents and Products](https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/pesticides-pest-management/policies-guidelines/regulatory-directive/2001/registration-microbial-pest-control-agents-products-dir2001-02.html) provides a set of guidelines that encompass important factors.<sup>26</sup> These factors include biological properties, potential pathogenicity, ability to multiply, and determine whether or not a microbial agent is safe to use and is of value for agricultural practices. Under this directive, microbial pest control agents are defined as “naturally occurring or genetically modified microorganisms, including bacteria, algae, fungi, protozoa, viruses, mycoplasmae or rickettsiae, and related organisms”, meaning that our genetically altered Rhizobia fall under these regulations.<sup>26</sup>
