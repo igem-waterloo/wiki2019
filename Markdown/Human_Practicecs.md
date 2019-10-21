@@ -3,22 +3,28 @@ This year, we explored many avenues of identifying and investigating Human Pract
 ## Silver Medal Requirements Overview:
 
 1. Extensively researched the toxicology of the herbicides our team proposed to work with, including glyphosate, linuron and its degradative products (3,4-DCA and Acetyl-3,4-DCA). 
+
 **Toxicology Studies**
 
 2. Researched the future use of glyphosate and linuron in Canada to ensure relevancy of our project.
+
 **Use of Glyphosate and Linuron in Canada**
 
 3. Investigated the regulations surrounding the use of both herbicides as well as the regulations surrounding modified bacteria in the soil.
+
 **Herbicide Regulations**<br>
 **Microbe Regulations**
 
 4. Thought carefully about our project design by gathering information from local farmers who could potentially be using our project, or a similar product, in the future.
+
 **Farmer Profiles**
 
 5. Conducted surveys about the public’s knowledge of agricultural practices and the use of soil microbes in Canada to better understand the general public perception on matters regarding our project and its future implementation.
+
 **Identifying Social Barriers**
 
 6. Identified standards for commercialization, namely for coating the bacteria onto seeds. 
+
 **Microbe Regulations**
 
 All of our research findings, interview results and surveys are carefully documented and can be found following the medal requirements overview. 
@@ -29,21 +35,26 @@ All of our research findings, interview results and surveys are carefully docume
   - Scientists directed us towards regulations that we needed to conform and shared what they believed were common misconceptions about the agriculture industry
   - Farmers shared their experience using pesticides and fertilizers and the major factors influencing the adoption of new techniques (cost and ease of implementation), defining performance criteria for an eventual product
   - Representatives from Cribit and Bayer Canada explained how seed inoculants are coated, providing us with insight on how to prepare our rhizobia for an eventual product
+  
 **Scientist Interviews**<br>
 **Farmer Profiles**<br>
 **System Implementation**
 
 2. Concerns for consumer safety prompted a deeper dive into regulations on the use of linuron to ensure that the work done in the lab considered concentrations and parameters within the allowed ranges.
+
 **Toxicology Studies**
 
 3. Obtained feedback from surveys and conversations with scientists, farmers, and industry professionals to continually design a project that operated within known industry and safety standards. 
+
 **Farmer Profiles**<br>
 **System Implementation**
 
 4. When the glyphosate transformations were unsuccessful, it was decided to focus on Linuron. Refocused into the safety and regulations surrounding Linuron, both in Canada and elsewhere to better inform new experiments from a safety and implementation perspective. 
+
 **Herbicide Regulations**
 
 5. Based on conversations with the public, farmers and scientists, identified social barriers preventing the future adoption of genetically modified systems in agriculture, and created an informative infographic to help the public learn about common practices in agriculture and provide context for our project. 
+
 **Identifying Social Barriers**
 
 ---
