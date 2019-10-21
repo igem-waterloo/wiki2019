@@ -267,13 +267,62 @@ We have also learned that inoculated seeds would need to be kept cool and dry du
 ---
 
 
-# Public Perception
+# Identifying Social Barriers
 
+Despite the benefits of using and implementing  genetically enhanced systems in agriculture (whether the plants themselves are being modified or through the use of  microbial inoculants), there exists significant social barriers that hinder their adoption. As such, in order for our system to be adopted in the future, we needed to better understand these barriers and explore methods to address them. 
 
+### Surveying the General Public
 
+To gauge the knowledge and awareness of the public, we performed three surveys over the course of the year. The first survey was conducted at this year’s Waterloo-Wellington Science and Engineering Fair (WWSEF); a STEM fair composed of middle school participants (grades seven and eight) by majority. This survey was conducted to assess how middle school students interested in science and engineering viewed our project. Some of the results are depicted below. 
 
+![hpgraph1](https://2019.igem.org/wiki/images/c/c2/T--Waterloo--hpgraph1.png)
 
+Overall, the WWSEF participants had split views on GMOs, had negative views on pesticides and/or herbicides, and did not know enough about adding microbes to soil nor nitrogen-enriched fertilizers to form an opinion.
 
+The second survey performed was through Waterloo iGEM’s social media accounts (Instagram and Facebook) where our following is comprised primarily of secondary and post-secondary students. Similar to the WWSEF survey, this survey was conducted to assess how both levels of education mentioned viewed our project but also to see if an increase in years of education changed their awareness in regards to crucial aspects of our work (GMOs, herbicides, fertilizers, etc.).
 
+![hpgraph2](https://2019.igem.org/wiki/images/9/99/T--Waterloo--hpgraph2.png)
+
+Similar to the WWSEF students, secondary and post-secondary students surveyed were split over the use of GMOs but with a larger skew towards positive, had negative views on pesticides, and did not know enough about nitrogen-enriched fertilizers to form an opinion. Unlike in WWSEF survey, the social media survey showed a positive majority regarding adding microbes to soil to help with plant growth. 
+
+The final survey was performed twice with our group of SHAD students this year. For more information on the SHAD workshop, please refer to segment written about SHAD on the [Engagement and Education page](https://2019.igem.org/Team:Waterloo/Education_And_Engagement). Both the workshop hosted and the survey itself were designed to test if dedicating time to teaching individuals about what GMOs are, how farming practices are currently ran, and what our project aims to do would change their view on our work. To test this, we had the SHAD students take the survey at the beginning of our workshop and then again at the end in order to test how further, project-specific education would change their opinions.
+
+![shadba1](https://2019.igem.org/wiki/images/3/3e/T--Waterloo--shadba1.png)
+![shadba2](https://2019.igem.org/wiki/images/3/30/T--Waterloo--shadba2.png)
+
+The SHAD students opinions on GMOs initially reflected that of the other surveys with split results from positive to not knowing enough to form an opinion. After the workshop, the vast majority of the students were in support of GMOs and those that were not were neutral towards them. Pesticides and adding microbes to the soil showed similar trends with the students initially being split evenly between not support them-not knowing enough to form an opinion and supporting them-not knowing enough to form an opinion, respectively. After the workshop, the students were in support of both the use of pesticides and adding microbes to the soil to help plant growth. Finally, the students moved their opinions from majority neutral in regards to the use of nitrogen-enriched fertilizers to negative-neutral.
+
+For all data used in the above three surveys, [click here](https://2019.igem.org/wiki/images/8/83/T--Waterloo--surveydata.pdf)!
+
+### Farmers and Scientists
+
+To gather more information about some of the social barriers preventing the adoption of systems such as our project, we referred to our conversations with farmers Karl Gmach and Steven Fekete, and scientists Dr. Sara Martin and Breanne Tidemann.
+
+### Conclusions
+
+From the survey and our conversations, we were able to gain insight on some of the barriers that the agriculture industry faces preventing the implementation of systems using GMOs. After compiling and analyzing the results, we were able to draw eight  major conclusions that span locally in Waterloo, provincially across Ontario, and nationally across Canada. **Note: our survey consisted of 205 responses and this sample population is referred to as “the public” below**. 
+
+1. Majority of the public have a negative perception towards the use of herbicides.
+2. The public is split between positive, negative, and neutral stances on the use of GMOs.
+3. Majority of the public claim to not know enough about the use of nitrogen-enriched fertilizers in agriculture to form an opinion. 
+4. While 44% of the public were in favour of adding microbes to soil to assist plant growth, 40% of the public felt negatively or didn’t know enough about the topic to form an opinion. 
+5. Majority of the public is unfamiliar with the concept of synthetic biology 
+6. Researchers observed that there is a strong misconception on definition of “organic”.
+7. Farmers are not extensively familiar with the impact of rhizobia or other microbes in soil.
+8. Many farmers understand the benefits of GMOs and would be interested in using them, but choose not to due to public perception.
+
+These conclusions helped us better understand the public’s perceptions of agricultural practices and how they influence what techniques farmers will employ. Overall, there is a highly negative view towards the use of pesticides and GMOs, which likely originates from their portrayal in the media as well as a lack of awareness on the countless benefits they provide. When it comes to the techniques that farmers choose to use in their fields, we discovered that many of their decisions are highly contingent on the public’s perception of the method. Thus, they are slow to adopt processes that use GMOs in fear of losing business due to negative reception.
+
+Particularly regarding our system, we realized that not all farmers are extensively knowledgeable of the rhizosphere and the benefits that are brought by the microbial community. A lack of awareness from a farmer’s point of view poses a barrier as they would require more information before considering the use of our system. 
+
+# Addressing Social Barriers
+
+As mentioned in the previous section, our goal was to identify some of the social barriers that would prevent the adoption of our system and genetically modified techniques in general. Based on the eight conclusions derived earlier, we wanted to create an infographic that addresses some of the common misconceptions and serve as an educational tool to those who may be unfamiliar with the rhizosphere and the role they play in promoting plant growth. The following infographic was shared on our social media platforms and is viewable by scanning the QR code underneath. 
+
+![infographic](https://2019.igem.org/wiki/images/3/35/T--Waterloo--infographic.png)
+
+### QR Code
+
+![qr](https://2019.igem.org/wiki/images/0/03/T--Waterloo--qr.png)
 
 
