@@ -32,6 +32,7 @@ In addition to the growth curve experiment peformed with *B. diazoefficiens* and
 
 ![LinBd1](https://2019.igem.org/wiki/images/5/5b/T--Waterloo--LinBd1.png)
 
+
 *Figure 8*. Abs<sub>600</sub> versus linuron concentration at 22 hours. Error bars represent standard deviations of sextuplicates. The sigmoidal fit parameters A, B, C, and D are 1.28E-02, 5.52E-02, 1.62, and 1.28E+01 respectively.
 
 ![DCABd1](https://2019.igem.org/wiki/images/e/ed/T--Waterloo--DCABd1.png)
