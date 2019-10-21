@@ -166,6 +166,35 @@ Image sourced from Environment and Energy Ontario.<sup>25</sup>
 ---
 
 
+# Microbe Regulation
+
+![microbes](https://2019.igem.org/wiki/images/5/59/T--Waterloo--microbes.jpg)
+Image sourced from Grist
+
+Part of our project was to understand whether or not a genetically altered organism could be realistically applied and used in Canadian agriculture. To assess whether we could realistically expect our product to be used for agricultural purposes, we corresponded with the office of the _Ontario Minister of Agriculture, Food and Rural Affairs_. Our altered Rhizobia falls under national pesticide regulations, specifically under the regulations set in place by the Pest Management Regulatory Agency. The regulatory directive [Guidelines for the Registration of Microbial Pest Control Agents and Products](https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/pesticides-pest-management/policies-guidelines/regulatory-directive/2001/registration-microbial-pest-control-agents-products-dir2001-02.html) provides a set of guidelines that encompass important factors.<sup>26</sup> These factors include biological properties, potential pathogenicity, ability to multiply, and determine whether or not a microbial agent is safe to use and is of value for agricultural practices. Under this directive, microbial pest control agents are defined as “naturally occurring or genetically modified microorganisms, including bacteria, algae, fungi, protozoa, viruses, mycoplasmae or rickettsiae, and related organisms”, meaning that our genetically altered Rhizobia fall under these regulations.<sup>26</sup>
+
+This regulatory directive was developed in part to be able to support “effective and sustainable pest management and the introduction of new pest management technology” and seeing as our Rhizobia could become a big part of integrated weed management strategies, registering our methods and turning them into legitimate regulated methods is the next step.<sup>26</sup>
+	
+Registering our _Rhizobia_ would require submitting notable amounts  of information to the _Pest Management Regulatory Agency_ but much of this information has already been gathered by different members of our iGEM team. Information such as Construction of the Recombinant Microorganism, Nature and Expression of Introduced or Modified Genetic Material, Environmental Toxicology, and others.
+(INSERT HYPERLINKS HERE)
+
+As stated in the directive, not all microorganisms require the same type of information to be submitted to the _Pest Management Regulatory Agency_. Further work in the following areas would need to be done for the successful registration and implementation of our altered _Rhizobia_:
+-Manufacturing Methods and Quality Assurance
+-Potency Estimation and Product Guarantee
+-Storage Stability Testing
+-Food and Feed Residue Studies
+-Laboratory Studies on Environmental Fate
+  -Pure Culture Testing
+  -Microcosm Testing 
+-Value Assessment 
+-Performance Assessment 
+-Laboratory and Growth Chamber Studies
+-Compatibility with Crop Protection and Management Strategies 
+
+## Conclusions
+
+Many of the data that needs to be gathered for successful registration and use of our product requires equipment, space and time beyond the scope of our project. We strongly believe that if we had all of this data gathered, our altered Rhizobia would have a strong chance of being accepted and becoming an integral part of integrated weed management strategies in Canadian agriculture. 
+
 
 
 
