@@ -64,7 +64,7 @@
 6. Add 3 seeds per pot. Add one seed to each hole, and wait for 5 days. Place in the incubator. 
 
 ## Care for Plants and Bacterial Treatment 
-* (optional) after shoots show, flood with bacterial inoculum.
+* (*optional*) after shoots show, flood with bacterial inoculum.
 * Remove any underdeveloped shoots, always leaving one growing plant in the pots.
 * If the vermiculite is moist to the touch, even after two days, do not re-water. 
 * Immedietly water if the vermiculite is dry, even if the two days haven't passed. 
