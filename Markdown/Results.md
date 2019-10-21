@@ -17,7 +17,9 @@ The results of these experiments are presented in figures 5, 6, and 7.
 
 *Figure 7*. Summary of key inhibitory concentrations for linuron and 3,4-DCA with *B. diazoefficiens* based on growth curves from 20 to 25 hours. 
 
+
 ![T1](https://2019.igem.org/wiki/images/8/83/T--Waterloo--T1.png)
+
 
 These differences in toxicity profiles are demonstrated by the key inhibitory concentrations in figure 7. Linuron’s IC<sub>50</sub> value is higher than that of 3,4-DCA, demonstrating that linuron is generally less toxic than 3,4-DCA. This agrees with reported toxicity values (Tixier, 2002) (Santos, 2014). Comparing IC<sub>10</sub> values shows that 3,4-DCA starts showing toxic effects at a much lower concentration than linuron, due to steeper slope of the plot for linuron. The steeper slope of linuron’s plot also means that linuron’s IC<sub>90</sub> is much lower than that of 3,4-DCA. This means that ful growth inhibition actually requires a lower concentration of linuron than of 3,4-DCA, despite linuron’s lower IC<sub>50</sub>. These differences highlight the importance of examining the entire toxicity profile and various inhibitory concentrations, since these convey much more information that the IC<sub>50</sub> value alone. 
 
@@ -29,9 +31,11 @@ In addition to the growth curve experiment peformed with *B. diazoefficiens* and
 
 ![LinBd1](https://2019.igem.org/wiki/images/5/5b/T--Waterloo--LinBd1.png)
 
+
 *Figure 8*. Abs<sub>600</sub> versus linuron concentration at 22 hours. Error bars represent standard deviations of sextuplicates. The sigmoidal fit parameters A, B, C, and D are 1.28E-02, 5.52E-02, 1.62, and 1.28E+01 respectively.
 
 ![DCABd1](https://2019.igem.org/wiki/images/e/ed/T--Waterloo--DCABd1.png)
+
 
 *Figure 9*. Abs<sub>600</sub> versus linuron concentration at 22 hours. Error bars represent standard deviations of sextuplicates. The sigmoidal fit parameters A, B, C, and D are 1.50E-02, 5.47E-02, 8.97E-01, and 3.08E+01 respectively.  
 
