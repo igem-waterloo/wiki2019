@@ -8,7 +8,7 @@ Once they selected their project, we also helped give them some advice on how to
 
 #### UofCalgary iGEM:
 
-University of Calgary's iGEM team reached out to us for collaborating on a project to visualize iGEM team metadata. Specifically, the aim of the project was to map collaborations between iGEM teams and topics they worked on. Calgary worked on scraping the iGEM wikis using BeautifulSoup in Python, which we built off for our interactive visualization at [Map of Collaborations](https://igem-waterloo.github.io/map-of-collaborations/).
+University of Calgary's iGEM team reached out to us for collaborating on a project to visualize iGEM team metadata. Specifically, the aim of the project was to map collaborations between iGEM teams and topics they worked on. Calgary worked on scraping the iGEM wikis using Beautiful Soup in Python, which we built off for our interactive visualization at [Map of Collaborations](https://igem-waterloo.github.io/map-of-collaborations/).
 
 The UCalgary team also developed an education package which they were kind enough to share with us. We gained insight into their methods in educating new members on skills related to iGEM and we were able to provide feeback and share how our methods compared.
 
