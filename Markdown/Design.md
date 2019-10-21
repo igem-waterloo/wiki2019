@@ -65,7 +65,7 @@ Microbial degradation is an important mechanism in the dissipation of linuron an
 
 The entire pathway is shown below:
 
-![Full Mineralization Pathway](https://2019.igem.org/wiki/images/2/2d/T--Waterloo--fulldegradationpathway.png)
+![Full Mineralization Pathway](https://2019.igem.org/wiki/images/a/a4/T--Waterloo--FullMin.png)
 
 (Image sourced from Bers et al., 2011)
 
