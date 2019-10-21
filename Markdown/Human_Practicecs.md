@@ -326,3 +326,74 @@ As mentioned in the previous section, our goal was to identify some of the socia
 ![qr](https://2019.igem.org/wiki/images/0/03/T--Waterloo--qr.png)
 
 
+# References
+
+[1] Toxicology Data Network. 2010. Linuron Retrieved 2019 from https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+1733
+
+[2] Extension Toxicology Network. 1993. Linuron. Retrieved 2019 from	http://pmep.cce.cornell.edu/profiles/extoxnet/haloxyfop-methylparathion/linuron-ext.html
+
+[3] Government of Canada. 2012. Proposed Re-evaluation Decision PRVD2012-02, Linuron. Retrieved 2019 from https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2012/linuron.html#a3
+
+[4] Material Safety Data Sheet. 2011. Linuron. Retrieved 2019 from http://datasheets.scbt.com/sc-250252.pdf
+
+[5] Toxicology Data Network. HSDB: 3,4-DICHLOROANILINE. Retrieved 2019 from http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/r?dbs+hsdb:@term+@DOCNO+1319
+
+[6] Government of Canada. 2017. Aromatic Amines of the Aromatic Azo and Benzidine-based substance grouping. Retrieved 2019 from https://www.canada.ca/en/health-canada/services/chemical-substances/substance-groupings-initiative/aromatic-azo-benzidine-based/aromatic-amines-aromatic-benzidine-based.html
+http://www.ec.gc.ca/ese-ees/default.asp?lang=En&n=C58F84D0-1
+
+[7] Toxicology Data Network. 2013. Propanil. Retrieved 2019 from https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+1226
+
+[8] United States Environmental Protection Agency. 2016. Pesticide Reregistration Status. Retrieved 2019 from http://www.epa.gov/pesticides/reregistration/status.htm
+
+[9] U.S. Department of Agriculture. 2017. The ARS Pesticide Properties Database. Retrieved 2019 from http://www.ars.usda.gov/Services/docs.htm?docid=14199
+
+[10] U.S. Environmental Protection Agency. 2006. Chemicals Evaluated for Carcinogenic Potential by the Office of Pesticide Program. Retrieved 2019 from http://www.fluoridealert.org/wp-content/pesticides/pesticides.cancer.potential.2006.pdf
+
+[11] IPCS Poisons Information Monograph.1990. Propanil. Retrieved 2019 from http://www.inchem.org/documents/pims/chemical/pim440.htm  
+
+[12] The Extension Toxicology Network. 1993. Linuron: Pesticide Information Profile. Retrieved 2019 from http://pmep.cce.cornell.edu/profiles/extoxnet/haloxyfop-methylparathion/linuron-ext.html.
+
+[13] Martin, H. 2000. Herbicide Mode of Action Categories. Retrieved 2019 from http://www.omafra.gov.on.ca/english/crops/facts/00-061.htm.
+
+[14] Canadian Council of Ministers of the Environment. 1999. Canadian water quality guidelines for the protection of agricultural water uses: Linuron. Retrieved 2019 from http://ceqg-rcqe.ccme.ca/download/en/122?redir=1571609961.
+
+[15] Henderson, A. M., Gervais, J. A., Luukinen, B., Buhl, K., Stone, D.,Cross, A. Jenkins, J. 2010. Glyphosate General Fact Sheet. Retrieved 2019 from http://npic.orst.edu/factsheets/glyphogen.html
+
+[16] Health Canada. 2017. Pest Control Products Sales Report for 2016. Retrieved 2019 from https://www.snapinfo.ca/rsu_docs/pmra-sales-report---rapport-des-ventes-2016-eng.pdf
+
+[17] Kogevinas, M. 2019. Probable carcinogenicity of glyphosate. Bmj, l1613. doi: 10.1136/bmj.l1613
+
+[18] Pest Management Regulatory Agency. 2017. Re-evaluation Decision RVD2017-01, Glyphosate. Retrieved 2019 from https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publications/pesticides-pest-management/decisions-updates/registration-decision/2017/glyphosate-rvd-2017-01.html#a1
+
+[19] Health Canada. 2019. Statement from Health Canada on Glyphosate. Retrieved 2019 from https://www.canada.ca/en/health-canada/news/2019/01/statement-from-health-canada-on-glyphosate.html.  
+
+[20]  Pest Management Regulatory Agency. 2012. Proposed Re-evaluation Decision PRVD2012-02, Linuron. Retrieved 2019 from https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/public/consultations/proposed-re-evaluation-decisions/2012/linuron.html
+
+[21] Queen’s Printer for Ontario. 2019. Pesticides Act, R.S.O. Retrieved 2019 from https://www.ontario.ca/laws/statute/90p11 
+
+[22] Queen’s Printer for Ontario. 2019. O.Reg 63/09: GENERAL.Retrieved 2019 from https://www.ontario.ca/laws/regulation/090063#BK20 
+
+[23] Ontario Ministry of the Environment, Conservation and Parks. 2019. Classification of Pesticides. Retrieved 2019 from https://www.ontario.ca/page/classification-pesticides 
+
+[24]Ontario Ministry of the Environment, Conservation and Parks. 2019. Class 4 Pesticides. Retrieved 2019 from https://www.ontario.ca/page/class-4-pesticides 
+
+[25] Ontario Ministry of the Environment, Conservation and Parks. 2019. Class 7 Pesticides. Retrieved 2019 from  https://www.ontario.ca/page/class-7-pesticides 
+
+[26] Government of Canada. 2001. Regulatory Directive: Guidelines for the Registration of Microbial Pest Control Agents and Products. Retrieved 2019 from https://www.canada.ca/en/health-canada/services/consumer-product-safety/reports-publicati ons/pesticides-pest-management/policies-guidelines/regulatory-directive/2001/registration-microbial-pest-control-agents-products-dir2001-02.html 
+
+[27] Saskatchewan Pulse Growers. 2019. Inoculant Options for Pulse Crops. Retrieved 2019 from 	https://saskpulse.com/files/technical_documents/190408_Inoculant_Options_for_Pulse_Crops.pdf
+
+[28] Ag Solutions Group. 2019. LPX2000. Retrieved 2019 from 	https://agsolutionsgroup.com/equipment/seed-treating/seed-treaters/lpx2000/
+
+[29] Rodriguez, J.M. et al. 2008. Barriers to adoption of sustainable agriculture practices: Change agent perspectives. *Renewable Agriculture and Food Systems*, 24(1), 60-71. Doi: 10.1017/S1742170508002421. Retrieved 2019 from https://www.jstor.org/stable/44490690?seq=1#page_scan_tab_contents
+
+
+### Pictures:
+
+https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBudn01KvlAhVDA6wKHR25CnwQjB16BAgBEAM&url=https%3A%2F%2Fsurvivornet.ca%2Fnews%2Fhealth-canada-announces-release-of-drug-and-medical-device-databases%2F&psig=AOvVaw0np1efpsDbJQxy8-KAdC8k&ust=1571689244131940 
+
+https://grist.files.wordpress.com/2014/06/microbes.jpg 
+
+https://agsolutionsgroup.com/equipment/seed-treating/seed-treaters/lpx2000/
+
+
