@@ -30,7 +30,6 @@ Our project would not have been possible without the help of many people. Here, 
 
 # Human Practices
   We would like to thank the following people for taking time out of their day to help us better understand the implications and implementations of our project. Thank you to Dr. Breanne Tidemann and Dr. Sara Martin of Agriculture and Agri-Food Canada who helped us learn the typical views on herbicides from the general public, barriers to communicating agriculture practices, and potential ways to overcome them. As well, thanks to Steven Fekete of Fekete Farms and Karl Gmach from Gmach Gardens for speaking with us about their farming practices, including fertilizer and herbicide use, and communicated potential concerns from their consumers about our project. Finally, thank you to Phil Nadalin from Bayer Canada for answering our questions concerning current industry standards with using *Rhizobia*, as well as on potential implementation of our project.
-# Wiki and Logo Development
 # Administrative Help
 We would like to thank Lucy Satora for providing administrative assistance and help with handling shipments during this years project, and Vivian Cheung's help in regards to financial administration.
 # Sponsors
