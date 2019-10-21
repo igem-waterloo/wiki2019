@@ -34,3 +34,8 @@ We would like to thank Lucy Satora for providing administrative assistance and h
 # Sponsors
 Thank you to our sponsors for supporting the work of the 2018 Waterloo iGEM team. This project is thanks to the funding and support received by them.
 ![WUSA](https://2019.igem.org/wiki/images/0/04/T--Waterloo--WUSA.png)
+![WaterlooMath](https://2019.igem.org/wiki/images/2/2b/T--Waterloo--WaterlooMath.gif)
+![UniLog](https://2019.igem.org/wiki/images/7/70/T--Waterloo--UniLogo.png)
+![ScienceFoundation](https://2019.igem.org/wiki/images/8/8f/T--Waterloo--ScienceFoundation.png)
+![Science_Soc](https://2019.igem.org/wiki/images/3/37/T--Waterloo--Science_Soc.png)
+![Science_Faculty_logo](https://2019.igem.org/File:T--Waterloo--Science_Faculty_logo.png)
