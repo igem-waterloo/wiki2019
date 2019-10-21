@@ -1,6 +1,6 @@
 # Plant Inoculation, Growth, and Nodulation 
 
-## Seed Inoculation (optional)
+## Seed Inoculation (*optional*)
 1. Grow 3-4 YM plate lawns of *Bradyrhizobium diazoefficiens*.  
   * The manitol in the YM media should allow for the bacteria to adhere better to the seed coat, and acts as a carbon source      for the bacteria
 
@@ -49,7 +49,7 @@
 1. After seed sterilization, wrap moist seeds on a paper towel and place in a plastic bag (a ziplock, for example) and leave for two days. 
 * Check the seeds after the first 24 hours, and observe if germination has taken place. 
 2. After 2 days, or once you see sprouting from the seeds, plant in prepared pots.
-* (To prepare planting) Fill each pot with vermiculite, almost to the top
+* (*To prepare planting*) Fill each pot with vermiculite, almost to the top
 
 3. Water the vermiculite with warm water, the aim here is to soak it until it becomes x5-x7 times heavier than it was before. This is not-quantitative, and does not need to be precisely measured.
 * Ensure that: the water is warm, and that you don't oversoak. This part is a little weird, because it's a bit by feeling. 
