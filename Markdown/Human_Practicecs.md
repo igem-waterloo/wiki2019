@@ -9,7 +9,7 @@ This year, we explored many avenues of identifying and investigating Human Pract
 **Use of Glyphosate and Linuron in Canada**
 
 3. Investigated the regulations surrounding the use of both herbicides as well as the regulations surrounding modified bacteria in the soil.
-**Herbicide Regulations**
+**Herbicide Regulations**<br>
 **Microbe Regulations**
 
 4. Thought carefully about our project design by gathering information from local farmers who could potentially be using our project, or a similar product, in the future.
@@ -29,15 +29,15 @@ All of our research findings, interview results and surveys are carefully docume
   - Scientists directed us towards regulations that we needed to conform and shared what they believed were common misconceptions about the agriculture industry
   - Farmers shared their experience using pesticides and fertilizers and the major factors influencing the adoption of new techniques (cost and ease of implementation), defining performance criteria for an eventual product
   - Representatives from Cribit and Bayer Canada explained how seed inoculants are coated, providing us with insight on how to prepare our rhizobia for an eventual product
-**Scientist Interviews**
-**Farmer Profiles**
+**Scientist Interviews**<br>
+**Farmer Profiles**<br>
 **System Implementation**
 
 2. Concerns for consumer safety prompted a deeper dive into regulations on the use of linuron to ensure that the work done in the lab considered concentrations and parameters within the allowed ranges.
 **Toxicology Studies**
 
 3. Obtained feedback from surveys and conversations with scientists, farmers, and industry professionals to continually design a project that operated within known industry and safety standards. 
-**Farmer Profiles**
+**Farmer Profiles**<br>
 **System Implementation**
 
 4. When the glyphosate transformations were unsuccessful, it was decided to focus on Linuron. Refocused into the safety and regulations surrounding Linuron, both in Canada and elsewhere to better inform new experiments from a safety and implementation perspective. 
@@ -57,6 +57,7 @@ The compounds were assessed along the following dimensions: **_Use and Environme
 ## Linuron
 
 (INSERT CHEMDRAW IMAGE HERE)
+
 Image sourced from Toxnet <sup> 1 </sup> 
 
 ### Use and Environmental Exposure 
@@ -86,6 +87,7 @@ ___
 ## 3,4-DCA Dichloroaniline (3,4-DCA)
 
 (INSERT CHEMDRAW IMAGE HERE)
+
 Image sourced from Toxnet <sup> 1 </sup> 
 
 ### Use and Environmental Exposure 
@@ -109,6 +111,7 @@ ___
 ## Propanil (proxy evalutaon for Acetyl-3,4-DCA)
 
 (INSERT CHEMDRAW IMAGE HERE)
+
 Image sourced from Toxnet <sup>1</sup> 
 
 ### Use and Environmental Exposure 
@@ -295,6 +298,7 @@ Inoculation is defined as “the process of introducing Rhizobium bacteria into 
 For the pre-inoculated process, seeds are inoculated while being treated with fungicides and insecticides during the previous fall, winter, or early spring. This is done with a “peat-based inoculant encapsulated with a seed coating” using commercial seed treaters such as the drum treater shown in figure 1.
  
 ![drumbarrell](https://2019.igem.org/wiki/images/8/89/T--Waterloo--drumbarrell.png)
+
 A drum treater (Image from Ag Solutions Group<sup>28</sup>)
 
 The treated seeds can then be stored in bagged units or totes during the winter, or transferred directly to gravity wagons for farmers usage. The seeds need to remain out of the sun and should be kept cool and dry with minimal temperature fluctuation.
