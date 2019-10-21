@@ -29,8 +29,8 @@ We have therefore experimentally deteremined the toxicity profiles of both linur
 
 In addition to the growth curve experiment peformed with *B. diazoefficiens* and linuron and 3,4-DCA, we also completed this experiment in single-time point format. This was done using one Abs<sub>600</sub> after 22 hours incubation at 30 C. Figures 8 and 9 show plots of Abs<sub>600</sub> versus toxin concentration. These results are shown in figures 8, 9, and 10. Fitting was performed to the four parameter in equation 1.
 
-![LinBd1](https://2019.igem.org/wiki/images/5/5b/T--Waterloo--LinBd1.png)
 
+![LinBd1](https://2019.igem.org/wiki/images/5/5b/T--Waterloo--LinBd1.png)
 
 *Figure 8*. Abs<sub>600</sub> versus linuron concentration at 22 hours. Error bars represent standard deviations of sextuplicates. The sigmoidal fit parameters A, B, C, and D are 1.28E-02, 5.52E-02, 1.62, and 1.28E+01 respectively.
 
