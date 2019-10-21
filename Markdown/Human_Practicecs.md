@@ -4,28 +4,28 @@ This year, we explored many avenues of identifying and investigating Human Pract
 
 1. Extensively researched the toxicology of the herbicides our team proposed to work with, including glyphosate, linuron and its degradative products (3,4-DCA and Acetyl-3,4-DCA). 
 
-**Toxicology Studies**
+[**Toxicology Studies**](Linkto: Toxicology Studies)
 
 2. Researched the future use of glyphosate and linuron in Canada to ensure relevancy of our project.
 
-**Use of Glyphosate and Linuron in Canada**
+[**Use of Glyphosate and Linuron in Canada**](Linkto: Use of Glyphosate and Linuron in Canada)
 
 3. Investigated the regulations surrounding the use of both herbicides as well as the regulations surrounding modified bacteria in the soil.
 
-**Herbicide Regulations**<br>
-**Microbe Regulations**
+[**Herbicide Regulations**](Linkto: Herbicide Regulations) <br>
+[**Microbe Regulations**](Linkto: Microbe Regulations)
 
 4. Thought carefully about our project design by gathering information from local farmers who could potentially be using our project, or a similar product, in the future.
 
-**Farmer Profiles**
+[**Farmer Profiles**](Linkto: Farmer Profiles)
 
 5. Conducted surveys about the public’s knowledge of agricultural practices and the use of soil microbes in Canada to better understand the general public perception on matters regarding our project and its future implementation.
 
-**Identifying Social Barriers**
+[**Identifying Social Barriers**](Linkto: Identifying Social Barriers)
 
 6. Identified standards for commercialization, namely for coating the bacteria onto seeds. 
 
-**Microbe Regulations**
+[**Microbe Regulations**](Linkto: Microbe Regulations)
 
 All of our research findings, interview results and surveys are carefully documented and can be found following the medal requirements overview. 
 
@@ -36,26 +36,26 @@ All of our research findings, interview results and surveys are carefully docume
   - Farmers shared their experience using pesticides and fertilizers and the major factors influencing the adoption of new techniques (cost and ease of implementation), defining performance criteria for an eventual product
   - Representatives from Cribit and Bayer Canada explained how seed inoculants are coated, providing us with insight on how to prepare our rhizobia for an eventual product
   
-**Scientist Interviews**<br>
-**Farmer Profiles**<br>
-**System Implementation**
+[**Scientist Interviews**](Linkto: Scientist Interviews)<br>
+[**Farmer Profiles**](Linkto: Farmer Profiles)<br>
+[**System Implementation**](Linkto: System Implementation)
 
 2. Concerns for consumer safety prompted a deeper dive into regulations on the use of linuron to ensure that the work done in the lab considered concentrations and parameters within the allowed ranges.
 
-**Toxicology Studies**
+[**Toxicology Studies**](Linkto: Toxicology Studies)
 
 3. Obtained feedback from surveys and conversations with scientists, farmers, and industry professionals to continually design a project that operated within known industry and safety standards. 
 
-**Farmer Profiles**<br>
-**System Implementation**
+[**Farmer Profiles**](Linkto: Farmer Profiles)<br>
+[**System Implementation**](Linkto: System Implementation)
 
 4. When the glyphosate transformations were unsuccessful, it was decided to focus on Linuron. Refocused into the safety and regulations surrounding Linuron, both in Canada and elsewhere to better inform new experiments from a safety and implementation perspective. 
 
-**Herbicide Regulations**
+[**Herbicide Regulations**](Linkto: Herbicide Regulations)
 
 5. Based on conversations with the public, farmers and scientists, identified social barriers preventing the future adoption of genetically modified systems in agriculture, and created an informative infographic to help the public learn about common practices in agriculture and provide context for our project. 
 
-**Identifying Social Barriers**
+[**Identifying Social Barriers**](Linkto: Identifying Social Barriers)
 
 ---
 
@@ -67,7 +67,7 @@ The compounds were assessed along the following dimensions: **_Use and Environme
 
 ## Linuron
 
-(INSERT CHEMDRAW IMAGE HERE)
+![linuron3](https://2019.igem.org/wiki/images/0/07/T--Waterloo--linuron3.jpg)
 
 Image sourced from Toxnet <sup> 1 </sup> 
 
@@ -97,7 +97,7 @@ ___
 
 ## 3,4-DCA Dichloroaniline (3,4-DCA)
 
-(INSERT CHEMDRAW IMAGE HERE)
+![34dca](https://2019.igem.org/wiki/images/c/cc/T--Waterloo--3%2C4dca.jpg)
 
 Image sourced from Toxnet <sup> 1 </sup> 
 
@@ -121,9 +121,11 @@ ___
 
 ## Propanil (proxy evalutaon for Acetyl-3,4-DCA)
 
-(INSERT CHEMDRAW IMAGE HERE)
+![propanil](https://2019.igem.org/wiki/images/c/cd/T--Waterloo--propanil.jpg)
 
 Image sourced from Toxnet <sup>1</sup> 
+
+As data on Acetyl-3,4-DCA is not highly available, we studied propanil, which is another herbicide that chemically differs by having an additional methyl group on the acetyl group
 
 ### Use and Environmental Exposure 
 
@@ -155,7 +157,7 @@ Linuron is defined as “a substituted urea herbicide used to control annual and
  
 Glyphosate is a non-selective herbicide that will kill most plants by preventing them from making essential proteins needed for growth.<sup>15</sup> Glyphosate is classified as a Group 9 herbicide. Group 9 herbicides are amino acid derivatives that inhibit 5-enolpyruvyl-shikimimate-3-phosphate synthase (EPSP synthase). Glyphosate is the main ingredient in the commonly known herbicide, _Roundup_, and it is the most commonly used herbicide in Canada.<sup>16</sup> Glyphosate is also the world’s most commonly used herbicide.<sup>17</sup> Part of the reason we chose glyphosate as a potential herbicide of interest is due to its prevalence in Canadian and Global agriculture.
 
-For a full review on the toxicity of both linuron and glyphosate, please refer to our Tox Studies documentation (here <-hyperlink).
+For a full review on the toxicity of both linuron and glyphosate, please refer to our [Toxicology Studies](Linkto: Toxicology Studies). 
 
 We faced two problems with our choices of herbicide.
 1. 	Glyphosate is currently under study for accusations on its carcinogenicity, and the adverse health risks for humans. It was subject to various re-assessments from the _International Agency for Research on Cancer_ (IARC)
