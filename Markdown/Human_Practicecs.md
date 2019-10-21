@@ -1,3 +1,54 @@
+This year, we explored many avenues of identifying and investigating Human Practices topics surrounding our project, including safety, regulations, industry standards, end-user feedback, and effective communication. For convenience, the Human Practices work we did and how they fulfil the Silver and Gold medal criteria are summarized below. For more details regarding our work, further documentation immediately follows the summary
+
+## Silver Medal Requirements Overview:
+
+1. Extensively researched the toxicology of the herbicides our team proposed to work with, including glyphosate, linuron and its degradative products (3,4-DCA and Acetyl-3,4-DCA). 
+**Toxicology Studies**
+
+2. Researched the future use of glyphosate and linuron in Canada to ensure relevancy of our project.
+**Use of Glyphosate and Linuron in Canada**
+
+3. Investigated the regulations surrounding the use of both herbicides as well as the regulations surrounding modified bacteria in the soil.
+**Herbicide Regulations**
+**Microbe Regulations**
+
+4. Thought carefully about our project design by gathering information from local farmers who could potentially be using our project, or a similar product, in the future.
+**Farmer Profiles**
+
+5. Conducted surveys about the public’s knowledge of agricultural practices and the use of soil microbes in Canada to better understand the general public perception on matters regarding our project and its future implementation.
+**Identifying Social Barriers**
+
+6. Identified standards for commercialization, namely for coating the bacteria onto seeds. 
+**Microbe Regulations**
+
+All of our research findings, interview results and surveys are carefully documented and can be found following the medal requirements overview. 
+
+## Gold Medal Requirements
+
+1. Conversed with scientists from *Agriculture and Agri-Food Canada*, local farmers from the Waterloo region, and industry professionals to help in the design and goal of our project.
+  - Scientists directed us towards regulations that we needed to conform and shared what they believed were common misconceptions about the agriculture industry
+  - Farmers shared their experience using pesticides and fertilizers and the major factors influencing the adoption of new techniques (cost and ease of implementation), defining performance criteria for an eventual product
+  - Representatives from Cribit and Bayer Canada explained how seed inoculants are coated, providing us with insight on how to prepare our rhizobia for an eventual product
+**Scientist Interviews**
+**Farmer Profiles**
+**System Implementation**
+
+2. Concerns for consumer safety prompted a deeper dive into regulations on the use of linuron to ensure that the work done in the lab considered concentrations and parameters within the allowed ranges.
+**Toxicology Studies**
+
+3. Obtained feedback from surveys and conversations with scientists, farmers, and industry professionals to continually design a project that operated within known industry and safety standards. 
+**Farmer Profiles**
+**System Implementation**
+
+4. When the glyphosate transformations were unsuccessful, it was decided to focus on Linuron. Refocused into the safety and regulations surrounding Linuron, both in Canada and elsewhere to better inform new experiments from a safety and implementation perspective. 
+**Herbicide Regulations**
+
+5. Based on conversations with the public, farmers and scientists, identified social barriers preventing the future adoption of genetically modified systems in agriculture, and created an informative infographic to help the public learn about common practices in agriculture and provide context for our project. 
+**Identifying Social Barriers**
+
+---
+
+
 # Toxicology Studies 
 
 In our project, we worked to metabolize the pesticide linuron. We felt that it was important to complete a thorough risk assessment of the compounds **linuron, 3,4-DCA, and acetyl-3,4-DCA**. These molecules are created and/or consumed during the degradation of linuron. Through this analysis, we gained a deeper understanding of the hazards of these compounds, determined safe limits and exposure routes, and ultimately provided concentration targets and best practices for wet lab experimentation and implementation.
@@ -233,7 +284,7 @@ A strong supporter of modified Rhizobia and modified Rhizobia-based products. Co
 # System Implementation
 
 ## Background
-To better understand how our genetically modified rhizobia could be used in industry, we did some online research and also reached out to Phil Nadalin of Bayer Canada, a company that regularly deals with the distribution process of inoculated seeds. This allowed us to better understand how our project could be implemented in the current market, and helped us to identify new avenues for improvement.
+To better understand how our genetically modified rhizobia could be used in industry, we did some online research and also reached out to Phil Nadalin of Beyer Canada, a company that regularly deals with the distribution process of inoculated seeds. This allowed us to better understand how our project could be implemented in the current market, and helped us to identify new avenues for improvement.
 
 ## Current Process
 
@@ -269,7 +320,7 @@ We have also learned that inoculated seeds would need to be kept cool and dry du
 
 # Identifying Social Barriers
 
-Despite the benefits of using and implementing  genetically enhanced systems in agriculture (whether the plants themselves are being modified or through the use of  microbial inoculants), there exists significant social barriers that hinder their adoption. As such, in order for our system to be adopted in the future, we needed to better understand these barriers and explore methods to address them. 
+Despite the benefits of using and implementing  genetically enhanced systems in agriculture (whether the plants themselves are being modified or through the use of  microbial inoculants), there exists significant social barriers that hinder their adoption.<sup>29</sup> As such, in order for our system to be adopted in the future, we needed to better understand these barriers and explore methods to address them. 
 
 ### Surveying the General Public
 
@@ -324,7 +375,6 @@ As mentioned in the previous section, our goal was to identify some of the socia
 ### QR Code
 
 ![qr](https://2019.igem.org/wiki/images/0/03/T--Waterloo--qr.png)
-
 
 # References
 
@@ -387,7 +437,6 @@ http://www.ec.gc.ca/ese-ees/default.asp?lang=En&n=C58F84D0-1
 
 [29] Rodriguez, J.M. et al. 2008. Barriers to adoption of sustainable agriculture practices: Change agent perspectives. *Renewable Agriculture and Food Systems*, 24(1), 60-71. Doi: 10.1017/S1742170508002421. Retrieved 2019 from https://www.jstor.org/stable/44490690?seq=1#page_scan_tab_contents
 
-
 ### Pictures:
 
 https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBudn01KvlAhVDA6wKHR25CnwQjB16BAgBEAM&url=https%3A%2F%2Fsurvivornet.ca%2Fnews%2Fhealth-canada-announces-release-of-drug-and-medical-device-databases%2F&psig=AOvVaw0np1efpsDbJQxy8-KAdC8k&ust=1571689244131940 
@@ -395,5 +444,3 @@ https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBud
 https://grist.files.wordpress.com/2014/06/microbes.jpg 
 
 https://agsolutionsgroup.com/equipment/seed-treating/seed-treaters/lpx2000/
-
-
