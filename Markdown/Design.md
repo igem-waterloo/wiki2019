@@ -102,26 +102,28 @@ Although the main goal was to evaluate the engineered strain B. diazoefficiens w
 
 Relevant starting ranges of linuron and 3,4-DCA concentrations to test were chosen based on existing literature for other microbial organisms.  Linuron was reported to cause toxic effects at 74 µM (Santos, 2014), complete inhibition at 200 µM (Santos, 2014), and to inhibit root nodule formation at 12 µM (Fernandez-Pascual, 1988). 3,4-DCA was reported to cause toxic effects at 3 µM (Tixier, 2002). Our toxin concentration ranges were also limited by the relatively low water solubilities of linuron and 3,4-DCA: 301 µM and 568 µM respectively. We therefore chose to use linuron concentrations of 290 - 4.42E-02 µM and 3,4-DCA concentrations of 550 - 8.38E-02 µM.
 
-The following cases describe what could be observed in the MIC results.  All cases refer to the organism with the construct versus the empty vector.
+The following cases describe what could be observed in the MIC results.  All cases refer to the organism with the construct versus the empty vector. These are based on the assumption that the desired end product, 3,4-DCAA, is of limited toxicity, that 3,4-DCA is very toxic, and that linuron has an intermediate toxicity, as described by Tixier et al (Tixier, 2002). 
+
+![Chosen Pathway](https://2019.igem.org/wiki/images/8/80/T--Waterloo--Chosenpathway_linurondegradation.png)
 
 **1.** If NAT1 is sucessfully expressed:
-*The organism will show increased tolerance to 3,4-DCA due to NAT1's ability to transform 3,4-DCA into 3,4-DCAA, a less toxic derivative
+* The organism will show increased tolerance to 3,4-DCA due to NAT1's ability to transform 3,4-DCA into 3,4-DCAA, a less toxic derivative
 
 **2.** If LibA is successfully expressed without NAT1:
-*The organism’s 3,4-DCA tolerance will be unchanged
-*The organism’s linuron tolerance will be lower since LibA will catalyse the formation of toxic 3,4-DCA, which cannot be further transformed
+* The organism’s 3,4-DCA tolerance will be unchanged
+* The organism’s linuron tolerance will be lower since LibA will catalyse the formation of toxic 3,4-DCA, which cannot be further transformed
 
 **3.** If LibA is successfully expressed in addition to NAT1:
-*The organism may show higher or lower tolerance depending on the relative rates of the two reactions (3a, 3b)
+* The organism may show higher or lower tolerance depending on the relative rates of the two reactions (3a, 3b)
 
 **3a.** If NAT1 is working much faster than LibA:
-*The organism will show higher tolerance to linuron
-*Linuron is broken down to the more toxic 3,4-DCA by LibA, but the 3,4-DCA is quickly converted to the less harmful 3,4-DCAA so that the 3,4-DCA concentration never reaches toxic levels
+* The organism will show higher tolerance to linuron
+* Linuron is broken down to the more toxic 3,4-DCA by LibA, but the 3,4-DCA is quickly converted to the less harmful 3,4-DCAA so that the 3,4-DCA concentration never reaches toxic levels
 
 **3b.** If NAT1 is working much slower than LibA:
-*The organism will show lower tolerance to linuron
-*Linuron is broken down to the more toxic 3,4-DCA by LibA, and 3,4-DCA accumulates in the cell since NAT1 is not able to break it down fast enough
-*The accumulated 3,4-DCA causes toxic effects in the cell
+* The organism will show lower tolerance to linuron
+* Linuron is broken down to the more toxic 3,4-DCA by LibA, and 3,4-DCA accumulates in the cell since NAT1 is not able to break it down fast enough
+* The accumulated 3,4-DCA causes toxic effects in the cell
  
 Each of these cases is described in more detail with quantitative justification on our [model page](https://2019.igem.org/Team:Waterloo/Model). Enzymatic reaction rate is proportional to both enzyme concentration and the kinetic parameter *k*<sub>cat</sub>, neither of which is well-characterised for our system.
 
@@ -186,5 +188,7 @@ Sandermann, H., Heller, W., Hertkorn, N., Hoque, E., Pieper, D., & Winkler, R. (
 Santos, S., Romeu, V., Maria, F., Sharon, C., António, M., Joaqium, V., & Amália, J. (2014). Toxicity of the herbicide linuron as assessed by bacterial and mitochondrial model systems. Toxicology in Vitro, 28 doi:10.1016/j.tiv.2014.04.004
 
 Tajima, R., Lee, O. N., Abe, J., Lux, A., & Morita, S. (2007). Nitrogen-Fixing Activity of Root Nodules in Relation to Their Size in Peanut (Arachis hypogaea L.). Plant Production Science, 10(4), 423–429. https://doi.org/10.1626/pps.10.423
+
+Tixier, C., Sancelme, M., Aït-Aïssa, W., P., Bonneymoy, F., Cuer, A., Fruffaut, N., & Veschambre, H. (2002). Biotransformation of phenylurea herbicides by a soil bacterial strain, arthrobacter sp. N2: Structure, ecotoxicity and fate of diuron metabolite with soil fungi. Chemosphere, 46, 519-526. doi:10.1016/S0045-6535(01)00193-X
 
 Zablotowicz, R. M. & Reddy, K. N. (2004). Impact of glyphosate on the Bradyrhizobium japonicum symbiosis with glyphosate-resistant transgenic soybean: a minireview. J. Environ Qual., 33(3), 825-831.
