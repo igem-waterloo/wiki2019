@@ -44,6 +44,10 @@ Dylan met with qGEM members Ruben and Janice in June during a visit to Kingston.
 
 ![qGEM Picture](https://2019.igem.org/wiki/images/8/8c/T--Waterloo--qGEMCollabs.jpg)
 
+#### NYU iGEM
+
+Spoke with NYU iGEM about their optogenetic gene circuit and provided advice on construction and testing
+
 #### UBC iGEM
 
 Dylan met with UBC iGEM members Tylo, Samuel, and Emilia in August during a visit to Vancouver. We discussed experimental and design aspects of our respective projects, as well as mathematical modelling, strategies for integrated human practices, and differences in team administration and structure between our iGEM teams.
