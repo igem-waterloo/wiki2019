@@ -17,7 +17,7 @@ We have made the questions and presentation available should future iGEM teams b
 
 SHAD is a month-long entrepreneurship and enrichment program for students between the ages of 15-18. It offers youth the opportunity to visit a Canadian University, during the month of July, to take part in various STEAM (Science, Technology, Engineering, Arts, Math) experiences. It allows them to learn various skills as well as gain incredible, hands-on experience through different lectures and workshops hosted by groups within the universities every week.<sup>1</sup>
 
-## Waterloo iGEM’s Involvement
+### Waterloo iGEM’s Involvement
 
 The University of Waterloo is currently one of 17 Canadian Universities taking part in SHAD, and iGEM Waterloo has participated as a workshop host - catering the subjects to different areas of synthetic biology -  over the past few years. This year, we were eager to share our knowledge and passion about our current project by hosting a workshop that was both a crash-course to our 2019 iGEM project, as well as to the different aspects of our team as a whole.
 
