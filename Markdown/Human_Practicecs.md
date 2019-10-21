@@ -233,7 +233,7 @@ A strong supporter of modified Rhizobia and modified Rhizobia-based products. Co
 # System Implementation
 
 ## Background
-To better understand how our genetically modified rhizobia could be used in industry, we did some online research and also reached out to Phil Nadalin of Beyer Canada, a company that regularly deals with the distribution process of inoculated seeds. This allowed us to better understand how our project could be implemented in the current market, and helped us to identify new avenues for improvement.
+To better understand how our genetically modified rhizobia could be used in industry, we did some online research and also reached out to Phil Nadalin of Bayer Canada, a company that regularly deals with the distribution process of inoculated seeds. This allowed us to better understand how our project could be implemented in the current market, and helped us to identify new avenues for improvement.
 
 ## Current Process
 
