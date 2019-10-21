@@ -8,11 +8,15 @@ Although we were unable to evaluate the tolerance of engineered *B. diazoefficie
 The results of these experiments are presented in figures 5, 6, and 7.
 
 ![LinBd2](https://2019.igem.org/wiki/images/6/6d/T--Waterloo--LinBd2.png)
+
 *Figure 5*. Growth rate versus linuron concentration from 20 to 25 hours. Error bars represent standard deviations of sextuplicates. The growth rate with no toxin was 0.08639 +/- 0.01232 1/h. The sigmoidal fit parameters A, B, C, and D are 3.23E-03, 3.46E-02, 2.96, and 2.30E+01 respectively.
+
 ![DCABd2](https://2019.igem.org/wiki/images/0/06/T--Waterloo--DCABd2.png)
+
 *Figure 6*. Growth rate versus linuron concentration from 20 to 25 hours. Error bars represent standard deviations of sextuplicates. The growth rate with no toxin was 0.08639 +/- 0.01232 1/h. The sigmoidal fit parameters A, B, C, and D are 7.43E-03, 3.62E-02, 8.32E-01, and 2.08E+01 respectively.
 
 *Figure 7*. Summary of key inhibitory concentrations for linuron and 3,4-DCA with *B. diazoefficiens* based on growth curves from 20 to 25 hours. 
+
 ![T1](https://2019.igem.org/wiki/images/8/83/T--Waterloo--T1.png)
 
 These differences in toxicity profiles are demonstrated by the key inhibitory concentrations in figure 7. Linuron’s IC<sub>50</sub> value is higher than that of 3,4-DCA, demonstrating that linuron is generally less toxic than 3,4-DCA. This agrees with reported toxicity values (Tixier, 2002) (Santos, 2014). Comparing IC<sub>10</sub> values shows that 3,4-DCA starts showing toxic effects at a much lower concentration than linuron, due to steeper slope of the plot for linuron. The steeper slope of linuron’s plot also means that linuron’s IC<sub>90</sub> is much lower than that of 3,4-DCA. This means that ful growth inhibition actually requires a lower concentration of linuron than of 3,4-DCA, despite linuron’s lower IC<sub>50</sub>. These differences highlight the importance of examining the entire toxicity profile and various inhibitory concentrations, since these convey much more information that the IC<sub>50</sub> value alone. 
@@ -43,6 +47,7 @@ Figure 10 summarizes some key inhibitory concentrations as calculated based on t
 We also chose to evaluate the linuron and 3,4-DCA tolerance of our engineered DH5α strains. We performed single-timepoint MICs after 7 hours incubation at 30 C using empty vector pRJPaph-GFP and two constructs, numbers 14 and 21, which had been verified by colony PCR, sequencing, and GFP fluorescence. Each was completed in triplicate using LB supplemented with tetracycline to promote vector retention. Figures 3 and 4 show plots of Abs<sub>600</sub> versus log toxin concentration for each.
 
 ![]()
+
 *Figure 3*. Abs<sub>600</sub> versus linuron concentration for 3 engineered DH5α strains at 7 hours. “EV” is pRJPaph-GFP and “14” and “21” each contain the construct with LibA and NAT1. Datapoints are averages of triplicates.
 
 ![]()
