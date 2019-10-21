@@ -179,17 +179,17 @@ Registering our _Rhizobia_ would require submitting notable amounts  of informat
 (INSERT HYPERLINKS HERE)
 
 As stated in the directive, not all microorganisms require the same type of information to be submitted to the _Pest Management Regulatory Agency_. Further work in the following areas would need to be done for the successful registration and implementation of our altered _Rhizobia_:
--Manufacturing Methods and Quality Assurance
--Potency Estimation and Product Guarantee
--Storage Stability Testing
--Food and Feed Residue Studies
+- Manufacturing Methods and Quality Assurance
+- Potency Estimation and Product Guarantee
+- Storage Stability Testing
+- Food and Feed Residue Studies
 -Laboratory Studies on Environmental Fate
-  -Pure Culture Testing
-  -Microcosm Testing 
--Value Assessment 
--Performance Assessment 
--Laboratory and Growth Chamber Studies
--Compatibility with Crop Protection and Management Strategies 
+  - Pure Culture Testing
+  - Microcosm Testing 
+- Value Assessment 
+- Performance Assessment 
+- Laboratory and Growth Chamber Studies
+- Compatibility with Crop Protection and Management Strategies 
 
 ## Conclusions
 
