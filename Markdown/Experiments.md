@@ -17,7 +17,7 @@
 
 7. Use hands or tweezers to remove the seeds - immediately plant into soaked vermiculite
 
-## Flood Inoculation 
+## Flood Inoculation (*optional*) 
 1. Grow 3-4 YM plate lawns of *Bradyrhizobium diazoefficiens*
 
 2. After lawn is grown up, asceptically add 10 mL of the bacteriological saline solution and scrape of off the culture from the plate, and add to a sterile beaker
