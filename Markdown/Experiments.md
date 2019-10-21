@@ -16,7 +16,7 @@
 
 7. Use hands or tweezers to remove the seeds - immediately plant into soaked vermiculite
 
-##Flood Inoculation 
+## Flood Inoculation 
 1. Grow 3-4 YM plate lawns of *Bradyrhizobium diazoefficiens*.
 
 2. After lawn is grown up, asceptically add 10 mL of the bacteriological saline solution and scrape of off the culture from the plate, and add to a sterile beaker
@@ -47,7 +47,7 @@
 
 ## Germinating and Planting the Seeds
 1. After seed sterilization, wrap moist seeds on a paper towel and place in a plastic bag (a ziplock, for example) and leave for two days. 
-  * Check the seeds after the first 24 hours, and observe if germination has taken place. 
+* Check the seeds after the first 24 hours, and observe if germination has taken place. 
 2. After 2 days, or once you see sprouting from the seeds, plant in prepared pots.
 * (To prepare planting) Fill each pot with vermiculite, almost to the top
 
