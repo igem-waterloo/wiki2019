@@ -3,7 +3,7 @@
 
 ## Growth curve experiment with wild-type *B. diazoefficiens*
 
-Although we were unable to evaluate the tolerance of engineered *B. diazoefficiens* strains due to time constraints, we nonetheless investigated the tolerance of wild-type *B. diazoefficiens* to linuron and 3,4-DCA. This was evaluated using growth curve MIC experiments performed with hourly absorbance readings from 20 to 25 hours of incubation at 30 C. The absorbances at the five timepoints were plotted versus time and fit with exponential curves of the form y = ae^(kx) + b, where k is growth rate. Sextuplicates were used for each toxin and concentration. 
+Although we were unable to evaluate the tolerance of engineered *B. diazoefficiens* strains due to time constraints, we nonetheless investigated the tolerance of wild-type *B. diazoefficiens* to linuron and 3,4-Dichloroaniline (3,4-DCA). This was evaluated using growth curve Minimum Inhibitory Concentration (MIC) experiments performed with hourly absorbance readings from 20 to 25 hours of incubation at 30 °C. The absorbances at the five timepoints were plotted versus time and fit with exponential curves of the form y = ae^(kx) + b, where k is growth rate. Sextuplicates were used for each toxin and concentration. 
 
 The results of these experiments are presented in figures 5, 6, and 7.
 
@@ -68,7 +68,7 @@ Linuron (figure 3) does not show any significant inhibition, even at the highest
 
 These experiments therefore demonstrate that the construct does not lend linuron or 3,4-DCA tolerance to *E. coli* DH5α. However, the lack of difference in growth rate provides some evidence that LibA and NAT1 do not impose a significant metabolic burden on DH5α when used in this expression system.
 
-Citations
+# References 
 
 Santos, S., Romeu, V., Maria, F., Sharon, C., António, M., Joaqium, V., & Amália, J. (2014). Toxicity of the herbicide linuron as assessed by bacterial and mitochondrial model systems. Toxicology in Vitro, 28 doi:10.1016/j.tiv.2014.04.004
 
