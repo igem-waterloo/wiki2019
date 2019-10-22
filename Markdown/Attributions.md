@@ -38,7 +38,7 @@ Our project would not have been possible without the help of many people. Here, 
 We would like to thank Lucy Satora for providing administrative assistance and help with handling shipments during this years project, and Vivian Cheung's help in regards to financial administration. 
 
 # Sponsors
-Thank you to our sponsors for supporting the work of the 2018 Waterloo iGEM team. This project is thanks to the funding and support received by them.
+Thank you to our sponsors for supporting the work of the 2019 Waterloo iGEM team. This project is thanks to the funding and support received by them.
 ![WUSA](https://2019.igem.org/wiki/images/0/04/T--Waterloo--WUSA.png)
 ![WaterlooMath](https://2019.igem.org/wiki/images/2/2b/T--Waterloo--WaterlooMath.gif)
 ![UniLog](https://2019.igem.org/wiki/images/7/70/T--Waterloo--UniLogo.png)
