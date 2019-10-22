@@ -13,7 +13,7 @@ Similar to the construction of our plasmid for resistance to linuron, we planned
 
 ## Growth curve experiment with wild-type *B. diazoefficiens*
 
-Although we were unable to evaluate the tolerance of engineered *B. diazoefficiens* strains due to time constraints, we nonetheless investigated the tolerance of wild-type *B. diazoefficiens* to linuron and 3,4-Dichloroaniline (3,4-DCA). This was evaluated using growth curve Minimum Inhibitory Concentration (MIC) experiments performed with hourly absorbance readings from 20 to 25 hours of incubation at 30 °C. The absorbances at the five timepoints were plotted versus time and fit with exponential curves of the form y = ae^(kx) + b, where k is growth rate. Sextuplicates were used for each toxin and concentration. 
+Although we were unable to evaluate the tolerance of engineered *B. diazoefficiens* strains due to time constraints, we nonetheless investigated the tolerance of wild-type *B. diazoefficiens* to linuron and 3,4-Dichloroaniline (3,4-DCA). This was evaluated using growth curve Minimum Inhibitory Concentration (MIC) experiments performed with hourly absorbance readings from 20 to 25 hours of incubation at 30 C. The absorbances at the five timepoints were plotted versus time and fit with exponential curves of the form y = ae^(kx) + b, where k is growth rate. Sextuplicates were used for each toxin and concentration. 
 
 The results of these experiments are presented in figures 5, 6, and 7.
 
