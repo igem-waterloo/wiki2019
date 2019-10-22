@@ -1,10 +1,22 @@
 # Project Description and Inspiration
 
+![plant](https://2019.igem.org/wiki/images/d/dc/T--Waterloo--plant.png)
+
 Herbicide usage and regulations in Canada have recently come under scrutiny and have caught our attention. Despite playing an important role in protecting crops, herbicides can also negatively impact the immediate rhizosphere of plants by inhibiting the process of root nodule formation (Fox et al., 2017).  Rhizobacteria are soil bacteria that form beneficial relationships with agriculturally important legume crops (Fox et al., 2017). These microorganisms form root nodules and fix nitrogen gas into ammonia which is required for plant growth (Fox et al., 2017).  Farmers using herbicides then need to apply more synthetic nitrogen fertilizers instead of relying on biologically fixed nitrogen. The runoff from these fertilizers can cause major environmental damage in the form of nutrient pollution (Heisler et al., 2008).  In our home province of Ontario, these issues are harming the economy and threatening ecological health, with agricultural runoff being responsible for the majority of the observed effects (Balpataky, 2017).
 
 Inspired by this space in which to improve current practices for environmental benefit, our team aims to minimize the use of ammonia-supplemented fertilizers.    Agriculture is a large component of our local community, and providing constructive synthetic biology solutions that support current agricultural practices is fundamental to the inspiration of this year’s project.  This project aims to allow farmers to reduce their use of harmful fertilizers while still using herbicides to ensure high crop yields.
 
-To do this, we are engineering rhizobia to have the ability to form root nodules in the presence of herbicides. We will confer resistance by either altering target receptors for the herbicide, or by biologically transforming the herbicide to dampen its toxicity. The aim is to identify the impact these changes will have on root nodule fixation by the engineered rhizobium, with the goal of allowing root nodule formation in the presence of herbicides.  Lastly, synthetic biology is uniquely suited to address this challenge by allowing for the development of a better rhizobial inoculant for leguminous crops that uses synthetic degradation and biotransformation pathways.
+To do this, we are engineering rhizobia to have the ability to form root nodules in the presence of two different herbicides: linuron and glyphosate. We hope to confer resistance by different methods for each herbicide. 
+
+For glyphosate, we will give the rhizobia a glyphosate-resistant version of the EPSP synthase enzyme (responsible for synthesis of aromatic amino acids), which is otherwise targetted by glyphosate.
+
+![glyph mechanism](https://2019.igem.org/wiki/images/f/f0/T--Waterloo--glyphpath.png)
+
+For linuron, we will give the bacterium genes to biologically transform the herbicide in order to dampen its toxicity. 
+
+![linuron full path](https://2019.igem.org/wiki/images/9/9a/T--Waterloo--linpath.png)
+
+The aim is to identify the impact these changes will have on root nodule fixation by the engineered rhizobium, with the goal of allowing root nodule formation in the presence of herbicides.  Lastly, synthetic biology is uniquely suited to address this challenge by allowing for the development of a better rhizobial inoculant for leguminous crops that uses synthetic degradation and biotransformation pathways.
 
 
 
