@@ -1,7 +1,7 @@
 Our project would not have been possible without the help of many people. Here, we would like to take the time to recognize and thank everyone who helped us on our journey this year! 
 
 # Project Development 
-  We would also like to give a huge thanks to Maximillian Reed, a previous lead on the iGEM 2017, for his support and guidance in the development of BBa_K2995002 biobrick experiments. We would also like to thank him for the time he put in on the intial experiments for the BBa_K2995002 biobrick for the 2019 iGEM project. 
+  We would also like to give a huge thanks to Maximillian Reed, a previous lead on the iGEM 2017, for his support and guidance in the development of [BBa_K2995002](http://parts.igem.org/Part:BBa_K2995002) biobrick experiments. We would also like to thank him for the time he put in on the intial experiments for the BBa_K2995002 biobrick for the 2019 iGEM project. 
   
 # Co-op Students 
   Thanks go out to iGEM team member Claire, who also acted as the co-op student during the months of April - August. It was with their assistance that the literature discussing the nat1 gene, integral to the design of our project this year, was found. Claire's dedication, and all the time they put in with the day to day operations during the summer, helped the project develop as it did.
