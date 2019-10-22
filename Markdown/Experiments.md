@@ -75,6 +75,8 @@
    + If the vermiculite is moist to the touch, even after two days, do not re-water. 
    + Immedietly water if the vermiculite is dry, even if the two days haven't passed. 
 
+### To water:
+
 1. The plants should be watered once the top of the vermiculite is drier to the touch, on the top
    + Water with DI water.
 2. Fill a watering can and topically apply to the plants 
