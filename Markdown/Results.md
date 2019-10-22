@@ -1,21 +1,18 @@
 
 # Cloning
-## Linuron construct
-![linuron](https://2019.igem.org/wiki/images/d/d2/T--Waterloo--Linuron.png)
+![Linuron](https://2019.igem.org/wiki/images/d/d2/T--Waterloo--Linuron.png)
 
-We successfully assembled this construct. It was validated by colony PCR (amplifying inserted genes) and sequencing. We also confirmed operon expression by measuring GFP fluorescence.
+We successfully assembled this construct! It was validated by colony PCR (amplifying inserted genes) and sequencing. We also confirmed operon expression by measuring GFP fluorescence.
 
-## Glyphosate construct
+In this construct, the insert is was cloned into the BglII site between the Paph promoter and bjGFP sequence on the pRJPaph-bjGFP to give a transcriptional fusion with the linuron degradation genes.  The insert itself was made by inserting the BBa_B0034 ribosome binding site ahead of each the *libA* and *nat1* genes through PCR.  These were then inserted downstream of the Paph promoter in the order of *libA* then *nat1* by using Gibson Assembly/NEBuild.  The coding sequences for the *libA* and *nat1* genes were codon optimised for *B. diazoefficiens* USDA 110.5.
+
 ![glyphosate](https://2019.igem.org/wiki/images/a/a4/T--Waterloo--Glyphosate.png)
 
 Similar to the construction of our plasmid for resistance to linuron, we planned to insert the BBa_B0034 ribosome binding site and coding sequence of the CP4 EPSP synthase gene into the BglII site present between the Paph promoter and bjGFP coding sequence on the pRJPaph-bjGFP plasmid to give a transcriptional fusion of our EPSP gene with the bjGFP. The coding sequence of the CP4 EPSP synthase gene used was derived from the amino acid sequence claimed in the Monsanto patent, reverse translated to be codon optimised for B. diazoefficiens USDA 110.5 Attempts to assemble this construct through NEBuilder were not successful as the no conditions could be found to amplify the coding sequence with required overhangs and ribosome binding site by PCR. This likely was due to the high GC content of the coding sequence (71.2%), however the lengths of the primers could have also contributed to the difficulty. Unfortunately, we decided to drop the glyphosate part of the project and only focus on Linuron due to time constraints.
 
+# MIC Assay Results
 
-
-
-# MIC assay results
-
-## Growth curve experiment with wild-type *B. diazoefficiens*
+## Growth Curve Experiment with Wild-type *B. diazoefficiens*
 
 Although we were unable to evaluate the tolerance of engineered *B. diazoefficiens* strains due to time constraints, we nonetheless investigated the tolerance of wild-type *B. diazoefficiens* to linuron and 3,4-Dichloroaniline (3,4-DCA). This was evaluated using growth curve Minimum Inhibitory Concentration (MIC) experiments performed with hourly absorbance readings from 20 to 25 hours of incubation at 30 C. The absorbances at the five timepoints were plotted versus time and fit with exponential curves of the form y = ae^(kx) + b, where k is growth rate. Sextuplicates were used for each toxin and concentration. 
 
@@ -49,15 +46,13 @@ In addition to the growth curve experiment peformed with *B. diazoefficiens* bot
 
 ![DCABd1](https://2019.igem.org/wiki/images/e/ed/T--Waterloo--DCABd1.png)
 
-
 *Figure 9*. Abs<sub>600</sub> versus linuron concentration at 22 hours. Error bars represent standard deviations of sextuplicates. The sigmoidal fit parameters A, B, C, and D are 1.50E-02, 5.47E-02, 8.97E-01, and 3.08E+01 respectively.  
 
-*Figure 10*. Summary of key inhibitory concentrations for linuron and 3,4-DCA with *B. diazoefficiens* after 22 hours. 
+Figures 8 and 9 both show the characteristic sigmoidal shapes expected for MIC experiments. All datapoints are very close to the sigmoidal fit, indicating that this model is a good representation of the data. 
 
 ![T2](https://2019.igem.org/wiki/images/2/2d/T--Waterloo--T2.png)
 
-
-Figures 8 and 9 both show the characteristic sigmoidal shapes expected for MIC experiments. All datapoints are very close to the sigmoidal fit, indicating that this model is a good representation of the data. 
+*Figure 10*. Summary of key inhibitory concentrations for linuron and 3,4-DCA with *B. diazoefficiens* after 22 hours. 
 
 Figure 10 summarizes some key inhibitory concentrations as calculated based on these growth curves. Although the two curves have the same general shape as those determined using the growth curve MICs, the calculated inbitory concentrations are somewhat different. The single timepoint data’s IC<sub>50</sub> values suggest that linuron is more toxic that 3,4-DCA, which disagrees with the results obtained using growth curves and literature toxicity data (Tixier, 2002; Santos, 2014). This highlights the shortfalls of determining toxicity from Abs<sub>600</sub> at a single timepoint and the importance of using growth curves to evaluate a toxin’s overall effect on an organism’s growth rate. 
 
@@ -66,9 +61,7 @@ Figure 10 summarizes some key inhibitory concentrations as calculated based on t
 
 We also chose to evaluate the linuron and 3,4-DCA tolerance of our engineered DH5α strains. We performed single-timepoint MICs after 7 hours incubation at 30 C using empty vector pRJPaph-GFP and two constructs, assigned the numerical values of 14 and 21. These constructs had been vertified by colony PCR, sequencing, and GFP fluorescence reading. Each single-timepoint MIC was completed in triplicate, using LB supplemented with tetracycline to promote vector retention. Figures 3 and 4 show plots of Abs<sub>600</sub> versus log toxin concentration for each.
 
-
 ![LinEc](https://2019.igem.org/wiki/images/c/c9/T--Waterloo--LinEc.png)
-
 
 *Figure 3*. Abs<sub>600</sub> versus linuron concentration for 3 engineered DH5α strains at 7 hours. “EV” is pRJPaph-GFP and “14” and “21” each contain the construct with LibA and NAT1. Datapoints are averages of triplicates.
 
