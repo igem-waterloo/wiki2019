@@ -153,6 +153,8 @@ We found that the commonly-used glyphosate herbicide also inhibited nitrogen fix
 
 Glyphosate is typically utilized with “Round-Up Ready” plants by Monsanto which have been genetically engineered to be resistant to the pesticide. This was accomplished by replacing the wild type copy of the enzyme inhibited by glyphosate, 5-enolpyruvylshikimate-3-phosphate (EPSP) synthase, with a copy of the gene found in agrobacterium sp. strain CP4, which demonstrates low levels of inhibition. When this glyphosate-resistant gene is engineered into soybeans, the shikimate pathway, which is required for the production of aromatic amino acids, is no longer inhibited and the plant is able to survive (Funke et al., 2006). We envisioned that by integrating this CP4 EPSP synthase gene from the original Monsanto patent (which we codon optimized for B. diazoefficiens) into the genome of our rhizobia, we could introduce glyphosate tolerance, in the same way it is done for plants. We chose to pursue this project alongside our linuron project in hopes of demonstrating that rhizobia could be made tolerant to different herbicides by a variety of ways and that mechanisms to accomplish this could be tailored to each herbicide.
 
+![glyph mechanism](https://2019.igem.org/wiki/images/f/f0/T--Waterloo--glyphpath.png)
+
 ## Optimizing Growth Conditions for Soybeans
 
 The optimization of growth conditions for the soybeans was conducted by growing the soybean seeds in different set-ups, testing different conditions for germination, and using different watering schedules. 
