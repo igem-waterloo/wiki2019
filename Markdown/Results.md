@@ -1,4 +1,10 @@
 
+# Cloning
+![glyphosate](https://2019.igem.org/wiki/images/a/a4/T--Waterloo--Glyphosate.png)
+
+
+![linuron](https://2019.igem.org/wiki/images/d/d2/T--Waterloo--Linuron.png)
+
 # MIC assay results
 
 ## Growth curve experiment with wild-type *B. diazoefficiens*
