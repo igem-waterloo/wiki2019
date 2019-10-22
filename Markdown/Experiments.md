@@ -112,7 +112,7 @@ This is presented in greater detail in the below protocol.
 
 <object data="https://2019.igem.org/wiki/images/9/98/T--Waterloo--MICProtocol.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://2019.igem.org/wiki/images/9/98/T--Waterloo--MICProtocol.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://2019.igem.org/wiki/images/9/98/T--Waterloo--MICProtocol.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
