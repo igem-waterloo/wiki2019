@@ -1,7 +1,7 @@
 
 # Cloning
 ![linuron](https://2019.igem.org/wiki/images/d/d2/T--Waterloo--Linuron.png)
-
+We successfully assembled this construct. It was validated by colony PCR (amplifying inserted genes) and sequencing. We also confirmed operon expression by measuring GFP fluorescence.
 
 ![glyphosate](https://2019.igem.org/wiki/images/a/a4/T--Waterloo--Glyphosate.png)
 Similar to the construction of our plasmid for resistance to linuron, we planned to insert the BBa_B0034 ribosome binding site and coding sequence of the CP4 EPSP synthase gene into the BglII site present between the Paph promoter and bjGFP coding sequence on the pRJPaph-bjGFP plasmid to give a transcriptional fusion of our EPSP gene with the bjGFP. The coding sequence of the CP4 EPSP synthase gene used was derived from the amino acid sequence claimed in the Monsanto patent, reverse translated to be codon optimised for B. diazoefficiens USDA 110.5 Attempts to assemble this construct through NEBuilder were not successful as the no conditions could be found to amplify the coding sequence with required overhangs and ribosome binding site by PCR. This likely was due to the high GC content of the coding sequence (71.2%), however the lengths of the primers could have also contributed to the difficulty. Unfortunately, we decided to drop the glyphosate part of the project and only focus on Linuron due to time constraints.
