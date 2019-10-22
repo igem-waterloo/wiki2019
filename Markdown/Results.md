@@ -1,6 +1,7 @@
 
 # Cloning
 ![linuron](https://2019.igem.org/wiki/images/d/d2/T--Waterloo--Linuron.png)
+
 We successfully assembled this construct. It was validated by colony PCR (amplifying inserted genes) and sequencing. We also confirmed operon expression by measuring GFP fluorescence.
 
 ![glyphosate](https://2019.igem.org/wiki/images/a/a4/T--Waterloo--Glyphosate.png)
