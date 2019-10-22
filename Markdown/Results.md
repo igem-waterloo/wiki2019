@@ -1,10 +1,15 @@
 
 # Cloning
+
+## Linuron construct
+
 ![Linuron](https://2019.igem.org/wiki/images/d/d2/T--Waterloo--Linuron.png)
+
+In this construct, the insert is was cloned into the BglII site between the Paph promoter and bjGFP sequence on the pRJPaph-bjGFP to give a transcriptional fusion with the linuron degradation genes.  The insert itself was made by inserting the BBa_B0034 ribosome binding site ahead of each the *libA* and *nat1* genes through PCR.  These were then inserted downstream of the Paph promoter in the order of *libA* then *nat1* by using Gibson Assembly/NEBuild.  The coding sequences for the *libA* and *nat1* genes were codon optimised for *B. diazoefficiens* USDA 110.5.
 
 We successfully assembled this construct! It was validated by colony PCR (amplifying inserted genes) and sequencing. We also confirmed operon expression by measuring GFP fluorescence.
 
-In this construct, the insert is was cloned into the BglII site between the Paph promoter and bjGFP sequence on the pRJPaph-bjGFP to give a transcriptional fusion with the linuron degradation genes.  The insert itself was made by inserting the BBa_B0034 ribosome binding site ahead of each the *libA* and *nat1* genes through PCR.  These were then inserted downstream of the Paph promoter in the order of *libA* then *nat1* by using Gibson Assembly/NEBuild.  The coding sequences for the *libA* and *nat1* genes were codon optimised for *B. diazoefficiens* USDA 110.5.
+## Glyphosate construct
 
 ![glyphosate](https://2019.igem.org/wiki/images/a/a4/T--Waterloo--Glyphosate.png)
 
